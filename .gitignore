@@ -6,3 +6,4 @@ vendor
 .idea
 .vscode
 _config_local.yml
+._*
