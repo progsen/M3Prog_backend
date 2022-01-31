@@ -1,0 +1,23 @@
+title: Backend programming
+description: "F2M3BAP - Duurzaam Huis"
+email: h.braun@ma-web.nl
+
+github_username:  hiddebraun-ma
+
+# Build settings
+theme: "just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
+
+#plugins:
+#  - jekyll-feed
+
+exclude: [ "sources", "code-examples", "start.sh", ".idea" ]
+search_enabled: false
+heading_anchors: false
+
+# Config theme
+# See: https://pmarsceill.github.io/just-the-docs/docs/configuration/
+# color_scheme: dark
+
+logo: "/assets/images/logo.png"
+
