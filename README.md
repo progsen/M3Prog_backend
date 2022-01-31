@@ -1,6 +1,6 @@
-# F2M3 Duurzaam Huis — Frontend programming 
+# F2M3 Duurzaam Huis — Backend Programming (BAP) - 2021/2022
 
-Dit is de Github pages website voor de **F2M3 Duurzaam Huis — Frontend programming** lessen in P3 van de opleiding SD.
+Dit is de Github pages website voor de **F2M3 Duurzaam Huis — Backend Programming** lessen in P3 van de opleiding SD.
 Deze site maakt gebruik van het Jekyll Theme: [Just the Docs](https://pmarsceill.github.io/just-the-docs/)
 
 Om dit op je lokale computer te draaien is [Jekyll](https://jekyllrb.com/) nodig (een static site generator in Ruby)
