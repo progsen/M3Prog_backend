@@ -5,6 +5,7 @@ email: h.braun@ma-web.nl
 github_username:  hiddebraun-ma
 
 # Build settings
+baseurl: "/F2M3-BAP-Site-2022"
 theme: "just-the-docs"
 remote_theme: "pmarsceill/just-the-docs"
 
