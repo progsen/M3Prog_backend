@@ -5,7 +5,7 @@
 Binnen deze repository doe je ALLE opdrachten voor deze les.
 Je schrijf de code, maakt screenshots (waar dat gevraagd wordt) en schrijft eigen scripts of oefeningen om te laten zien dat je jezelf ontwikkelt.
 
-[Hier vind je de opdrachten voor deze les/week](https://hiddebraun.github.com/F2M3-BAP-Site-2022/les-1)
+[Hier vind je de opdrachten voor deze les/week](https://hiddebraun-ma.github.com/F2M3-BAP-Site-2022/les-1)
 
 Lees en maak de opdrachten één voor één: 
 

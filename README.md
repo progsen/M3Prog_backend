@@ -15,9 +15,9 @@ De website is dan te zien op:
 
 ----
 Na pushen van de master branch worden wijzigingen **automatisch** gepubliceerd op:
-[https://hiddebraun-ma.github.io/F2M3-Frontend](https://hiddebraun-ma.github.io/F2M3-Frontend)
+[https://hiddebraun-ma.github.com/F2M3-BAP-Site-2022](https://hiddebraun-ma.github.com/F2M3-BAP-Site-2022)
 
 Via een makkelijkere URL:
-[https://bit.ly/duurzaam-huis-frontend](https://bit.ly/duurzaam-huis-frontend)
+[https://bit.ly/duurzaam-huis-backend](https://bit.ly/duurzaam-huis-backend)
 
 
