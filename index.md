@@ -2,7 +2,6 @@
 layout: home
 title: Backend programming
 nav_order: 0
-has_children: true
 ---
 
 # Duurzaam Huis - {{ page.title }}

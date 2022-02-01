@@ -1,32 +1,42 @@
 ---
 layout: home
-title: Opdrachten maken
-nav_order: 10
+title: Opdrachten inleveren
+nav_order: 1
 ---
 
 # Opdrachten maken en inleveren
 {: .text-green-200}
 
-## Hoe maak je de opdrachten?
+## Hoe start je aan de opdrachten?
 
-- [ ] Zorg dat je een eigen map hebt voor deze unit: F2M3BAP
-- [ ] Log in op je GitHub account.
-- [ ] Ga naar de les van deze week klik de groen knop bij de les
-- [ ] Klik je eigen naam, er wordt een nieuwe repository gemaakt in jouw GitHub-account.
-- [ ] Clone deze nieuwe repository naar je computer IN de map F2M3BAP
-- [ ] Open deze map in je code-editor (Visual Studio Code of andere editor)
-- [ ] Klik de link in de README om de opdrachten te zien. 
-- [ ] Maak de opdrachten en zet alles wat je doet in de repository
+- Zorg dat je werkt in een eigen map hebt voor deze unit: F2M3BAP
+- Log eerst in op je GitHub account.
+
+## De opdracht repository ophalen
+- Ga naar [de les van deze week](/) en klik de groene knop bij de les.
+- Klik je eigen naam en accepteer de assignment, er wordt een nieuwe repository gemaakt in jouw GitHub-account.
+- Open een command-line in de F2M3BAP folder
+- Clone deze repository naar je computer **(dus IN de map F2M3BAP)**:
+
+```bash
+git clone <jouw-repository-url>
+```
+
+- Open nieuwe map in je code-editor (Visual Studio Code of een andere editor)
+- Lees op deze website de opdrachten en ga aan de slag.
+- Zet alles wat je maakt in deze repository
 
 ## Ben je klaar?
 
-- [ ] **Commit en push** alle wijzigingen naar Github**
-- [ ] Je kunt **altijd** wijzigingen en verbeteringen maken (dan wel opnieuw committen en pushen)
+- **Commit en push** alle wijzigingen naar Github**
+- Je kunt **altijd** wijzigingen en verbeteringen maken (dan wel opnieuw committen en pushen natuurlijk)
 
 ## Tips:
-- Maak per opdracht een aparte map 
-- Maak aantekeningen in een Markdown document
-- Schrijf comments in je code ter verduidelijking
-- Vraag op tijd hulp bij problemen (klasgenoot, docent, google...)
-- Lever op tijd in
+- Maak aantekeningen tijdens de les in een Markdown document
+- Schrijf comments in je code ter verduidelijking van wat de code doet
+- Vraag op tijd om hulp als je er niet uit komt (klasgenoot, docent, google...)
+- Lever op tijd in (aan het einde van de week waarin je de les hebt gehad)
+- Maak regelmatig tussentijdse commits met duidelijke commit messages
+
+**Staat het niet op Github, dan is het niet zichtbaar en kan het niet beoordeeld worden**
 

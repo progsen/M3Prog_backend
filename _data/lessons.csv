@@ -1,9 +1,9 @@
 "number","title","classroom_url","description"
 1,"Starten met PHP","https://classroom.github.com","Je gaat starten met de programmeertaal PHP. Hiervoor installeer je PHP, een webserver en een database server (MySQL). XAMPP is een gratis pakket waar dit allemaal in zit. "
-2,"Basis syntax - PHP en HTML","https://classroom.github.com",
-3,"Loops en Conditionals","https://classroom.github.com",
-4,"Client / Server","https://classroom.github.com",
-5,"Request & Response","https://classroom.github.com",
-6,"HTTP protocol: GET, POST","https://classroom.github.com",
-7,"Database","https://classroom.github.com",
-8,"Database vervolg / API","https://classroom.github.com",
+2,"Basis syntax - PHP en HTML",,
+3,"Loops en Conditionals",,
+4,"Client / Server",,
+5,"Request & Response",,
+6,"HTTP protocol: GET, POST",,
+7,"Database",,
+8,"Database vervolg / API",,

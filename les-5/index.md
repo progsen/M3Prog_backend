@@ -1,10 +1,8 @@
 ---
 title: Les 5
 layout: page
-parent: Backend programming
 permalink: :path/:basename
-nav_order: 5
-nav_exclude: true
+nav_order: 6
 ---
 {% include classroom-assignment.md les="5" %}
 

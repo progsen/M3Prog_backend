@@ -1,7 +1,8 @@
-## Uitleg
+## Opdrachten maken en inleveren
+{: .text-green-100 .fs-5 }
 
 - Maak de opdrachten één voor één.
-- Je maakt al je werk in de repository die je elke les krijgt.
+- Je maakt al je werk in de assignment repository (die je naar je computer hebt gekloont).
 - Soms staan er in deze map start-bestanden. Die je kun gebruiken bij de opdracht.
 - Soms wordt er een screenshot of ander bewijs gevraagd. Verzamel dat allemaal bij elkaar (met een duidelijke naam)
 
