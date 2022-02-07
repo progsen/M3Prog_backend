@@ -10,10 +10,15 @@ has_toc: false
 
 1. [Download en installeer een PHP, web- en database server](1)
 2. [PHP op de command-line uitproberen](2)
-4. [Schrijf je eerste PHP script](3)
-5. [De bestanden via je webserver bekijken](4)
-6. [De PHP Documentatie lezen en gebruiken](5)
-7. [Meld je aan bij Linkedin Learning](6)
+3. [Schrijf je eerste PHP script](3)
+4. [De bestanden via je webserver bekijken](4)
+5. [De PHP Documentatie lezen en gebruiken](5)
+6. [Meld je aan bij Linkedin Learning](6)
+7. [Kijk video en maak variabelen](7)
+
+---
+
+{% include commit_push.md %}
 
 ---
 

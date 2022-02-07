@@ -28,12 +28,12 @@ git clone <jouw-repository-url>
 
 ## Ben je klaar?
 
-- **Commit en push** alle wijzigingen naar Github**
+- **Commit en push** alle wijzigingen altijd naar Github.
 - Je kunt **altijd** wijzigingen en verbeteringen maken (dan wel opnieuw committen en pushen natuurlijk)
 
 ## Tips:
 - Maak aantekeningen tijdens de les in een Markdown document
-- Schrijf comments in je code ter verduidelijking van wat de code doet
+- Schrijf comments in je code ter verduidelijking van wat de code doet.
 - Vraag op tijd om hulp als je er niet uit komt (klasgenoot, docent, google...)
 - Lever op tijd in (aan het einde van de week waarin je de les hebt gehad)
 - Maak regelmatig tussentijdse commits met duidelijke commit messages
