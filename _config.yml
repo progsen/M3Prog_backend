@@ -21,3 +21,6 @@ heading_anchors: false
 
 logo: "/assets/images/logo.png"
 
+bap:
+  assignment_url: https://classroom.github.com/a/to-dDHUa
+  skip_date_check: false
