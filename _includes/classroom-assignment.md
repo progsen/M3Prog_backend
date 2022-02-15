@@ -1,8 +1,8 @@
 {% assign lesson_number = include.les|plus:0  %}
 {% assign lesson_index = lesson_number|minus:1 %}
 {% assign lesson = site.data.lessons[lesson_index] %}
-{% assign today = "now"|date: "%Y-%m-%d" %}
-{% assign lesson_date = lesson_date|date: "%Y-%m-%d" %}
+{% assign today = "now"|date:"%Y%m%d" %}
+{% assign lesson_date = lesson.datum|date:"%Y%m%d" %}
 # Les {{ lesson_number }} - {{ lesson.title }}
 {: .text-green-200 .fs-7 }
 
@@ -12,15 +12,9 @@
 
 ---
 
-{% if (lesson_date >= today) or site.bap.skip_date_check%}
+{% if (lesson_date <= today) or site.bap.skip_date_check%}
 
-### Maak de opdrachten voor deze les
-{: .text-green-200 .fs-5 }
-
----
-
-## De opdrachten
-{: .text-green-100 .fs-6 }
+{% include_relative _assignments.md %}
 
 {% else %}
 ### Deze opdracht komt binnenkort beschikbaar.

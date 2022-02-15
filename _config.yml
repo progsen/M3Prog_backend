@@ -11,7 +11,7 @@ remote_theme: "pmarsceill/just-the-docs"
 #plugins:
 #  - jekyll-feed
 
-exclude: ["github-assignments", "start.sh", ".idea"]
+exclude: ["code-examples", "start.sh", ".idea"]
 search_enabled: false
 heading_anchors: false
 

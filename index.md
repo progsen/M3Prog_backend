@@ -27,10 +27,10 @@ Dit hoef je maar één keer te doen. Je maakt alle opdrachten en oefeningen in d
 ## Lessen & Opdrachten
 
 {% for lesson in site.data.lessons %}
-{% assign today = "now"|date: "%Y-%m-%d" %}
-{% assign lesson_date = lesson_date|date: "%Y-%m-%d" %}
+{% assign today = "now"|date:"%Y%m%d" %}
+{% assign lesson_date = lesson.datum|date:"%Y%m%d" %}
 
-{% if (lesson_date >= today) or site.bap.skip_date_check%}
+{% if lesson_date <= today or site.bap.skip_date_check%}
 ## Les {{ lesson.number }}:  {{ lesson.title }}
 {: .text-blue-100 :}
 
