@@ -18,8 +18,7 @@ Een variabele in PHP begint altijd met een dollar-teken: `$` en daarna meteen de
 ?>
 ```
 
-### Welke naamgeving werkt wel en welke niet?
-
+## Welke naamgeving werkt wel en welke niet?
 {: .text-blue-100 .fs-6 }
 
 Sommige namen voor variabelen zijn NIET geldig in PHP. Dat ga je nu zelf uitzoeken.
@@ -41,6 +40,8 @@ Sommige namen voor variabelen zijn NIET geldig in PHP. Dat ga je nu zelf uitzoek
 | $$auto           | ?               |
 | $kleurVanAuto    | ?               |
 | $software-dev    | ?               |
+
+---
 
 Hier vind je meer info over naamgeving van variabelen in PHP:
 [https://www.php.net/manual/en/language.variables.basics.php](https://www.php.net/manual/en/language.variables.basics.php)

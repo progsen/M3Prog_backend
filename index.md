@@ -10,11 +10,11 @@ has_toc: false
 Op deze website vind je links naar de opdrachten voor de unit Backend Programming van de module Duurzaam Huis (F2M3 Duurzaam Huis).
 
 Je gaat werken in een lege repository. Je krijgt jouw persoonlijke repository door op de blauwe knop te klikken.  
-Dit hoef je maar één keer te doen. Je maakt alle opdrachten en oefeningen in deze repository.
+**Dit hoef je maar één keer te doen!**. Je maakt alle opdrachten en oefeningen in deze repository.
 
 - Kies vervolgens je eigen naam. 
-- Er wordt een repository in jouw account gemaakt.
-- Deze repository clone je naar jouw computer
+- Er wordt een repository gemaakt waar jij toegang tot krijgt.
+- Deze repository clone je naar jouw computer.
 
 [Jouw Backend programming repository maken]({{ site.bap.assignment_url }}){: .btn .btn-blue }
 

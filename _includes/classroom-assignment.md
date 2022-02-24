@@ -16,6 +16,9 @@
 
 {% include_relative _assignments.md %}
 
+*Tip: Gebruik ook de les-slides die je in Microsoft Teams kunt vinden voor extra hulp*
+
+
 {% else %}
 ### Deze opdracht komt binnenkort beschikbaar.
 {: .text-blue-100 .fs-5 }

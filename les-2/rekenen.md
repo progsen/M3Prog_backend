@@ -65,7 +65,10 @@ echo "{$celsius} graden Celsius = {$fahrenheit} graden Fahrenheit. <br/>";
 ?>
 ```
 
-- Bonus: Zet de uitgevoerde berekening op het scherm (gebruik de variabelen in de `echo`)
+### Bonus
+
+- Zet de uitgevoerde berekening leesbaar op het scherm (gebruik de variabelen in de `echo`)
+- Je ziet dan de berekening met de echte waarden van de variabelen in de tekst die je toont. 
 
 ---
 

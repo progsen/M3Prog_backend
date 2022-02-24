@@ -16,7 +16,7 @@ Dan kun je de foutmelding proberen te ontcijferen en een oplossing zoeken.
 {: .text-blue-100 .fs-6 }
 
 - Zorg dat de webserver is opgestart.
-- Ga naar de XAMPP pagina in je webbrowser en dan naar de PHP Info pagina.
+- Ga naar de XAMPP (of MAMP) startpagina in je webbrowser en dan naar de PHP Info pagina.
 - Zoek met CTRL+F op de pagina naar: "Loaded configuration file", deze heet `php.ini`.
 - Dit is de plek van het PHP-instellingen bestand: `php.ini`.
 
@@ -40,11 +40,11 @@ display_errors=On
 ### Foutmelding testen
 {: .text-blue-100 .fs-6 }
 
-Je gaat nu expres een fout maken om te kijken of je nu een foutmelding krijgt te zien
+Je gaat nu expres een fout maken om te kijken of je nu de foutmeldingen krijgt te zien
 
 - Maak een nieuw bestand: `foutje.php`
-- Schrijf de start en eind PHP tags
-- Zet daartussen deze code:
+- Schrijf de start en eind PHP tags die je inmiddels kent
+- Zet tussen de PHP-tags deze code:
 
 ```php
 echo "Dit is foute code omdat de quotes niet dezelfde zijn';

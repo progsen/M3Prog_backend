@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Soorten gegevens (data typen)
 
-In PHP ken je een aantal basis gegevens soorten
+In PHP ken je een aantal basis gegevens soorten (data types)
 
 | Soort                                                                       | Beschrijving                                 | PHP Voorbeeld         |
 |:----------------------------------------------------------------------------|:---------------------------------------------|:----------------------|
@@ -18,7 +18,7 @@ In PHP ken je een aantal basis gegevens soorten
 | [Boolean](https://www.php.net/manual/en/language.types.boolean.php)         | Voor True of False                           | $isGeslaagd = false;  |
 | NULL                                                                        | Voor variabelen die (nog) geen waarde hebben | $nogLeeg = null;      |
 
-Daarnaast heb je nog ander datatypen. De belangrijkste waar je mee gaat kennismaken is array.
+Daarnaast heb je nog ander datatypen. De belangrijkste waar je nog mee gaat werken deze periode is de *Array*.
 
 Hier vind je meer info over naamgeving van variabelen in PHP:
 [https://www.php.net/manual/en/language.variables.basics.php](https://www.php.net/manual/en/language.variables.basics.php)

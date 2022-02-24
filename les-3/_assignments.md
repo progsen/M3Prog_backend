@@ -1,4 +1,4 @@
-## De opdrachten
-{: .text-green-100 .fs-6 }
+### Maak de opdrachten voor deze les
+{: .text-green-200 .fs-5 }
 
-De opdrachten volgen binnenkort.
+1. [Arrays](arrays.md)
