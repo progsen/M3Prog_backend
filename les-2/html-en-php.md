@@ -20,7 +20,7 @@ $image = "https://www.amsterdamsdagblad.nl/image/1659_1747_1200_1200.jpg";
 $titel = "Mediacollege Amsterdam";
 ?>
 <h1><?php echo $titel; ?></h1>
-<img src="<?php echo $image?>" alt="<?php echo $titel>" />
+<img src="<?php echo $image?>" alt="<?php echo $titel?>" />
  ```
 
 ## Opdracht
@@ -31,11 +31,11 @@ $titel = "Mediacollege Amsterdam";
   - Voor de titel van de pagina
   - Voor de URL naar een afbeelding van het internet
   - Voor de titel van de afbeelding
-  - Met je eigen naam
+  - Met jouw eigen naam
 - Gebruik echo om de **variabelen** op de juiste plek in de HTML uit te voeren met PHP.
-- Gebruik de image url in een `<img>` tag.
-- Gebruik de titel van de image in het `alt` en/of `title` attribuut van de `img` tag.
-- Gebruik je naam in een `<h1>` of andere tag naar keuze.
+- Gebruik de image url (de variabele dus!) in een `<img>` tag.
+- Gebruik de titel (de variabele dus!) van de image in het `alt` en/of `title` attribuut van de `img` tag.
+- Gebruik je naam (de variabele dus!) in een `<h1>` of andere tag naar keuze.
 
 Vraag de pagina op via localhost en kijk of de pagina uitvoer correct is.
 Als het goed is wordt de afbeelding getoond en zie je de titel en je naam op de pagina.
