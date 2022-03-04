@@ -21,6 +21,10 @@ Let op, dit werkt net iets anders op Windows en Mac, kijk de juiste video!
 
 {% include youtube.md video="uW9S4qSPB8Q" title="Windows XAMPP installatie" %}
 
+Volg daarna de instructies deze video om te zorgen dat je computer vanaf elke plek op de command line het commando `php` kan uitvoeren
+
+{% include youtube.md video="ratXBKKf2Fg" title="PHP in je PATH zetten" %}
+
 ---
 
 ## Mac installatie
