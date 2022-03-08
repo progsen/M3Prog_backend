@@ -1,7 +1,7 @@
 ### Maak de opdrachten voor deze les
 {: .text-green-200 .fs-5 }
 
-1. [Vanaf nu alles via XAMPP en localhost](xampp)
+1. [Bekijk PHP code via XAMPP en localhost](xampp)
 2. [Arrays](arrays)
 3. [Associatieve arrays](arrays_assoc)
 4. [For loop - array](for-loop)
