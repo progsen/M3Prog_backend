@@ -2,7 +2,7 @@
 title: Extra challenges
 layout: page 
 permalink: :path/:basename 
-parent: Les 2 
+parent: Les 3 
 nav_exclude: true
 ---
 

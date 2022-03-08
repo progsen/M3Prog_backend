@@ -2,7 +2,7 @@
 title: Arrays 
 layout: page 
 permalink: :path/:basename 
-parent: Les 2 
+parent: Les 3 
 nav_exclude: true
 ---
 
@@ -14,10 +14,16 @@ Een array bevat dus meerdere waarden en dat is handig. Je kunt al die waarden in
 Zo maak je een array in PHP (beide regels doen hetzelfde, de tweede regel is wat minder typen):
 
 ```php
-// Langere manier
+// Lege array maken (langere manier)
+$data = array();
+
+// Lege array maken (kortere manier)
+$data = []
+
+// Langere manier, met gegevens
 $dagen = array("maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag");
 
-// Verkorte manier
+// Verkorte manier, met gegevens
 $dagen = ["maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag"];
 ```
 
@@ -91,22 +97,33 @@ En zo zijn er nog veel meer functies die je kunt gebruiken. Je vind ze in de doc
 ### Opdrachten
 {: .text-blue-100 .fs-6 }
 
-**Belangrijk bij deze opdrachten is dat je de PHP-documentatie leest zodat je weet hoe je de functies moet gebruiken!**
+**Belangrijk bij deze opdrachten is dat je de [PHP-documentatie](https://www.php.net/manual/en/ref.array.php){: target="_blank"} leest zodat je weet hoe je bepaalde functies moet gebruiken!**
 
 *Zet ook comments in je code, met uitleg over wat de code doet*
 
+1. Maak eerst een nieuw bestand `arrays.php` met een HTML start structuur. 
+2. Vraag het bestand op via localhost in je browser (is nu dus een lege webpagina)
+
+Maak nu deze code opdrachten in `arrays.php`:
+
+- Zet een start en eind PHP tag binnen de `<body>HIER DUS</body>` van je HTML-document (daar wil je de PHP output krijgen)
 - Declareer een variabele `$namen` en sla daarin een array op met minstens 5 namen uit je klas.
-- Gebruik echo en count() om het aantal namen in de variabele $namen op het scherm te zetten 
-- Sorteer de array met sort() (let op deze functie geeft niets terug maar verandert de array direct)
+- Gebruik `echo` en `count()` om het aantal namen in de variabele `$namen` op het scherm te zetten 
+- Sorteer de array met `sort()` (let op deze functie geeft niets terug maar verandert de array direct)
 - Gebruik `print_r()` om de `$namen` array op het scherm te "dumpen"
-- Haal de laatste naam op met pop() en zet deze op het scherm;
-- Voeg een nieuwe naam toe met array_push()
+- Haal de laatste naam op met `pop()` en zet deze op het scherm;
+- Voeg een nieuwe naam toe met `array_push()`
 - Voeg een nieuwe naam toe met via de `$namen[]` methode
 - Gebruik weer `print_r()` om de `$namen` array op het scherm te "dumpen"
 - Gebruik de `implode()` met `<br>` als separator om de namen naar een tekst om te zetten. Sla dit op in de variabele `$namen_tekst`
-- echo `$name_tekst` op het scherm. Wat is er gebeurd?
-- Nu andersom: Gebruik `explode()` om deze tekst naar een array om te zetten (sla het p in een nieuwe variabele)
-- Gebruik weer `print_r()` om te zien wat er in de nieuwe variabele zit.
+- echo `$namen_tekst` op het scherm. Wat is er gebeurd?
+- Nu andersom: Gebruik `explode()` om deze tekst naar een array om te zetten (sla het resultaat op in een nieuwe variabele)
+- Gebruik nu weer `print_r()` om te zien wat er in de nieuwe variabele zit.
+
+
+**Tip**: Om nieuwe regels in HTML te krijgen moet je dus ook een `<br>` toevoegen aan de `echo`, anders komt alles achter elkaar op het scherm
+
+---
 
 Hier vind je meer info over arrays en handige array functions in PHP:
 
