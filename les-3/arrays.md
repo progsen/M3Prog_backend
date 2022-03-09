@@ -111,7 +111,7 @@ Maak nu deze code opdrachten in `arrays.php`:
 - Gebruik `echo` en `count()` om het aantal namen in de variabele `$namen` op het scherm te zetten 
 - Sorteer de array met `sort()` (let op deze functie geeft niets terug maar verandert de array direct)
 - Gebruik `print_r()` om de `$namen` array op het scherm te "dumpen"
-- Haal de laatste naam op met `pop()` en zet deze op het scherm;
+- Haal de laatste naam op met `array_pop()` en zet deze op het scherm;
 - Voeg een nieuwe naam toe met `array_push()`
 - Voeg een nieuwe naam toe met via de `$namen[]` methode
 - Gebruik weer `print_r()` om de `$namen` array op het scherm te "dumpen"
