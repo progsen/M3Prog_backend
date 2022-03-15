@@ -6,6 +6,10 @@ Deze site maakt gebruik van het Jekyll Theme: [Just the Docs](https://pmarsceill
 Om dit op je lokale computer te draaien is [Jekyll](https://jekyllrb.com/) nodig (een static site generator in Ruby)
 Na [installatie](https://jekyllrb.com/docs/installation/) kan de Jekyll server en generator worden gestart met:
 
+## Windows
+- Download Ruby 2.7 + DevKit van https://rubyinstaller.org/downloads/
+- Run `bundle install`
+
 ```bash
 bundle exec jekyll serve --config config.yml,_config_local.yml
 ```
