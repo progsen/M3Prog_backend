@@ -31,7 +31,7 @@ Dit zou het resultaat ongeveer zijn (uiteraard met de juiste temperaturen).
 
 ![Temperatuur table](images/assoc_temps.png)
 
-**Bonus uitdaging**\ 
+**Bonus uitdaging**  
 Voeg een CSS-bestand toe en maak het mooier qua kleuren, lettertype etc. Je kunt bijvoorbeeld de `table` en `td` een kleurtje geven. Of zet de temperatuur tussen `<span class="temperatuur"></span>` en gebruik CSS om de temperatuur een eigen stijl te geven.   
 
 Zoiets zou je dan kunnen krijgen:

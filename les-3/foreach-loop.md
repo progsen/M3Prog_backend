@@ -37,6 +37,7 @@ Schrijf nu een foreach loop die eerst de naam van het apparaat en dan het verbru
 Gebruik wat verschillende HTML-tags in je output (en misschien wat stijling met een CSS bestand?).
 
 ### Opdracht 2
+{: .text-blue-100 .fs-6 }
 
 - Maak nu Na de foreach-loop alvast een variabele `$totaal` met het getal 0  
 - Kopieer nu de hele `foreach-loop` en zet hem onder de vorige `foreach-loop`
