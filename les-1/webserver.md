@@ -18,7 +18,7 @@ Zorg er dus NU voor dat de map voor deze week IN de `htdocs` folder staat.
 
 ## Testen of het werkt
 
-Heb je in de map `htdocs` een map `les-1` en daarin een bestand `hello.php` dan wordt de url: `http://localhot/les-1/hello.php`
+Heb je in de map `htdocs` een map `les-1` en daarin een bestand `hello.php` dan wordt de url: `http://localhost/les-1/hello.php`
 
 ### Maak een nieuw PHP bestand en vraag hem op via localhost
 
