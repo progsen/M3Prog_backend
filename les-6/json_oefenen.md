@@ -44,7 +44,7 @@ Meer informatie over JSON:
 
 - [https://www.w3schools.com/js/js_json_intro.asp](https://www.w3schools.com/js/js_json_intro.asp)
 - [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-
+- [JSON Linter - kijken of JSON geldig is](https://jsonlint.com/)
 
 
 
