@@ -41,7 +41,7 @@ Omdat PHP op de server wordt uitgevoerd kun je met PHP ook een response header s
 
 ![302 Redirect](images/error_404.jpeg)
 
-1. Maak een bestand `header404.php`
+1. Maak een bestand `hdr404.php`
 2. [Lees in de documentatie](https://www.php.net/manual/en/function.header.php) hoe je een response header kunt terugsturen met het de `header()` function
 3. Belangrijk: je mag geen inhoud op het scherm zetten voor je de header stuurt!
 4. Stuur met het de `header()` function een 404 header
@@ -53,7 +53,7 @@ Omdat PHP op de server wordt uitgevoerd kun je met PHP ook een response header s
 ### Opdracht 2 - Met PHP en een 302 status code de client doorverwijzen
 {: .text-blue-100 .fs-6 }
 
-**Maak een nieuw bestand:** `header302.php`  
+**Maak een nieuw bestand:** `hdr302.php`  
 Met een 302 response code kun je de client doorsturen naar een andere URL. Dit noem je een *redirect*.
 
 ![302 Redirect](images/redirect_302.png)
@@ -62,7 +62,7 @@ Met een 302 response code kun je de client doorsturen naar een andere URL. Dit n
 2. Stuur een `Location' met 302 status code
 3. De `Location` header geeft de client een URL om naar toe te gaan. 
 4. Stuur de gebruiker dus door naar een andere website (kies zelf een eigen URL).
-5. Vraag de `header302.php` pagina op via jouw `localhost` en test of je wordt doorgestuurd.
+5. Vraag de `hdr302.php` pagina op via jouw `localhost` en test of je wordt doorgestuurd.
 
 ---
 
