@@ -70,15 +70,6 @@ Tip: Gebruik `print_r($_POST)` om inhoud van de hele `$_POST` array op het scher
 
 ---
 
-In de volgende les gaan we al deze kennis gebruiken om een formulier te programmeren die gegevens in een database opslaat.
-Je werkt dan toe naar een script dat weersvoorspelling, apparaat verbruik levert voor weergave op je dashboard.
-
-- Of een script dat de invoer van je dashboard in KwH omrekent naar een bedrag in Euro?
-- Of een script dat de naam van een stad doorkrijgt vanaf je dashboard en die de weersvoorspelling toont?
-- ...
-
----
-
 Links / tutorials:
 
 - [Alles over forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
