@@ -6,12 +6,22 @@ parent: Les 3
 nav_exclude: true
 ---
 
-# Wat zijn Arrays? 
+- maak een nieuwe file:
+    - `arrays_uitleg.php`
+- Lees de uitleg hieronder
+    - en maak de opdrachten
 
-In een array kun je lijsten / verzamelingen gegevens opslaan. Denk aan een lijst met temperaturen, namen, prijzen etc.
-Een array bevat dus meerdere waarden en dat is handig. Je kunt al die waarden in één variabele opslaan.
 
-Zo maak je een array in PHP (beide regels doen hetzelfde, de tweede regel is wat minder typen):
+
+# UITLEG: Wat zijn Arrays? 
+
+> In een array kun je lijsten / verzamelingen gegevens opslaan. Denk aan een lijst met temperaturen, namen, prijzen etc.
+> Een array bevat dus meerdere waarden en dat is handig. Je kunt al die waarden in één variabele opslaan.
+
+
+## UITLEG: array maken
+
+Zo maak je een array in PHP (beide regels doen `hetzelfde`, de tweede regel is wat minder typen):
 
 ```php
 // Lege array maken (langere manier)
@@ -27,16 +37,52 @@ $dagen = array("maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterd
 $dagen = ["maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag"];
 ```
 
-Het 1e element in een array heeft index 0, het 2e index 1 enzovoorts. Om "donderdag" op te halen kun je de index 3 gebruiken:
+## OPDRACHT
 
-![Array index](images/array_index.jpg)
+- maak nu zelf een array, kies een onderwerp:
+    > - autos
+    > - games
+    > - zangers
+    > - youtubers
+    > - streamers
+    - de `variable` waar de `array` in zit heeft de naam van 1 van onderwerpen hierboven
+        > - voorbeeld: je kies `autos` dan heb je `$autos = ...`
+    - zet er `5 elementen` in (zie dagen)
+    - print de array met `print_r`
+
+
+## UITLEG: Elementen
+
+> - Een element is `1 ding` wat in `1 hokje` van de array zit
+> - Het `1e element` in een array heeft `index 0`, het 2e index 1 enzovoorts. 
+> - een index is het `huisnummer` van het `hokje`
+
+
+#### VOORBEELD:
+
+we hebben deze array:
+```PHP
+$dagen = ["maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag"];
+```
+
+Om "donderdag" op te halen kun je de `index 3` gebruiken:
+![Array index](img/array_index.jpg)
 
 ```php
 echo $dagen[3]; 
 // Er wordt "donderdag" op het scherm gezet
 ```
 
-Een array kun je **NIET** met `echo $namen` op het scherm zetten (zoals een tekst of een getal)
+
+## OPDRACHT elementen
+
+- echo nu het 3de en 5de element van jouw array in `arrays_uitleg.php` 
+    - open je browser en check of je het op je scherm ziet
+    - gebruik `echo "<br>";` om de regels onder elkaar te zetten
+
+## UITLEG: Printen/Echo/:og
+
+> Een array kun je **NIET** met `echo $namen` op het scherm zetten (zoals een tekst of een getal)> 
 
 Je kunt wel `var_dump()` of `print_r()` gebruiken.
 
@@ -50,10 +96,21 @@ var_dump($dagen);
 
 ![print_r](images/dump.png)
 
----
+## Opdracht: Printen/Echo/:og
+
+- `print_r` je `array`
+- `var_dump` je `array`
+- `kijk` even naar het `verschil` in output
+
+
+## Andere functions
 
 Er zijn veel [array functions](https://www.php.net/manual/en/ref.array.php) in PHP om met arrays te werken. Hier wat voorbeelden.
 
+
+## UITLEG: Handige functions
+
+> Dit zijn functions die heel veel gaat gebruiken
 Gebruik [count()](https://www.php.net/manual/en/function.count.php) om het **aantal** elementen terug te krijgen:
 
 ```php 
@@ -92,39 +149,19 @@ echo implode(' >> ', $dagen);
 
 En zo zijn er nog veel meer functies die je kunt gebruiken. Je vind ze in de documentatie :-)
 
----
 
-### Opdrachten
-{: .text-blue-100 .fs-6 }
+## Opdracht: functions gebruiken
 
-**Belangrijk bij deze opdrachten is dat je de [PHP-documentatie](https://www.php.net/manual/en/ref.array.php){: target="_blank"} leest zodat je weet hoe je bepaalde functies moet gebruiken!**
+- gebruik `count` om de lengte van je array op het scherm te zetten
 
-*Zet ook comments in je code, met uitleg over wat de code doet*
-
-1. Maak eerst een nieuw bestand `arrays.php` met een HTML start structuur. 
-2. Vraag het bestand op via localhost in je browser (is nu dus een lege webpagina)
-
-Maak nu deze code opdrachten in `arrays.php`:
-
-- Zet een start en eind PHP tag binnen de `<body>HIER DUS</body>` van je HTML-document (daar wil je de PHP output krijgen)
-- Declareer een variabele `$namen` en sla daarin een array op met minstens 5 namen uit je klas.
-- Gebruik `echo` en `count()` om het aantal namen in de variabele `$namen` op het scherm te zetten 
-- Sorteer de array met `sort()` (let op deze functie geeft niets terug maar verandert de array direct)
-- Gebruik `print_r()` om de `$namen` array op het scherm te "dumpen"
-- Haal de laatste naam op met `array_pop()` en zet deze op het scherm;
-- Voeg een nieuwe naam toe met `array_push()`
-- Voeg een nieuwe naam toe met via de `$namen[]` methode
-- Gebruik weer `print_r()` om de `$namen` array op het scherm te "dumpen"
-- Gebruik de `implode()` met `<br>` als separator om de namen naar een tekst om te zetten. Sla dit op in de variabele `$namen_tekst`
-- echo `$namen_tekst` op het scherm. Wat is er gebeurd?
-- Nu andersom: Gebruik `explode()` om deze tekst naar een array om te zetten (sla het resultaat op in een nieuwe variabele)
-- Gebruik nu weer `print_r()` om te zien wat er in de nieuwe variabele zit.
-
-
-**Tip**: Om nieuwe regels in HTML te krijgen moet je dus ook een `<br>` toevoegen aan de `echo`, anders komt alles achter elkaar op het scherm
-
----
-
+- voeg met `array_push` nog 1 element toe
+    - `print_r` je array nogmaals
+- `sort` je array 
+    - `echo implode` nu met ` ` je array
+- je krijgt dan ongeveer zoiets op je scherm:
+    > ![](img/arrayresult.PNG)
+    
+## Documentatie
 Hier vind je meer info over arrays en handige array functions in PHP:
 
 - [https://code.tutsplus.com/tutorials/working-with-php-arrays-in-the-right-way--cms-28606](https://code.tutsplus.com/tutorials/working-with-php-arrays-in-the-right-way--cms-28606)
