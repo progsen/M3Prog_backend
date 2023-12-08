@@ -7,7 +7,7 @@ nav_exclude: true
 ---
 
 #  Variabelen de juiste naam geven
-
+\
 Een variabele in PHP begint altijd met een dollar-teken: `$` en daarna meteen de naam van de variabele:
 
 ```php
@@ -18,16 +18,17 @@ Een variabele in PHP begint altijd met een dollar-teken: `$` en daarna meteen de
 ?>
 ```
 
+- hoeveel variabelen staan hierboven?
+
 ## Welke naamgeving werkt wel en welke niet?
-{: .text-blue-100 .fs-6 }
 
-Sommige namen voor variabelen zijn NIET geldig in PHP. Dat ga je nu zelf uitzoeken.
+> Sommige namen voor variabelen zijn NIET geldig in PHP. Dat ga je nu zelf uitzoeken.
 
-- Maak een nieuw bestand `variabelen.php`;
-- Declareer nu de variabelen uit de tabel hier onder één voor één met een waarde (mag je zelf iets voor verzinnen)
-- Gebruik `echo $variabele;` en kijk of het werkt, of dat je een fout krijgt.
-- Krijg je een fout? Zet dan `//` voor die regel zodat PHP die regel overslaat, en ga verder met de volgende naam
-
+- Maak een nieuw bestand:
+    - `variabelen.php`;
+- Declareer nu de `variabelen` uit de tabel hier onder één voor één met een `waarde` 
+    > - je mag zelf de waarde verzinnen
+    
 | Variabele        | Is deze geldig? |
 |:-----------------|:----------------|
 | $auto2           | ?               |
@@ -41,8 +42,20 @@ Sommige namen voor variabelen zijn NIET geldig in PHP. Dat ga je nu zelf uitzoek
 | $kleurVanAuto    | ?               |
 | $software-dev    | ?               |
 
----
+## TESTEN
+- Gebruik `echo $variabele;` en:
+    - kijk of het werkt
+    - of dat je een fout krijgt.
+        - Krijg je een fout? 
+            - Zet dan `//` voor die regel zodat PHP die regel `overslaat` (*je maakt er commentaar*),
+            - en `ga verder` met de volgende naam
 
+
+
+## klaar
+- commit alles naar je github
+
+## INFO
 Hier vind je meer info over naamgeving van variabelen in PHP:
 [https://www.php.net/manual/en/language.variables.basics.php](https://www.php.net/manual/en/language.variables.basics.php)
 

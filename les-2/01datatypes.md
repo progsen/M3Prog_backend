@@ -29,9 +29,19 @@ Hier vind je meer info over naamgeving van variabelen in PHP:
 
 Kijk naar de voorbeelden hierboven en kies het juiste soort variabelen bij de inhoud
 
-- Maak een variabele met huisnummer (kies een duidelijke naam en schrijf de juiste code)
-- Maak een variabele waarin staat of je wel of niet geslaagd bent voor je rijbewijs
-- Maak een variabele met de prijs voor een liter Euro 95 benzine
-- Maak een variabele die nog geen waarde heeft
+- Maak variabelen in `datatypes.php`:
+    > - Maak een variabele:
+    >     - met `huisnummer` (kies een duidelijke naam en > schrijf de juiste code)
+    > - Maak een variabele waarin staat:
+    >     -  of je `wel of niet geslaagd bent voor je rijbewijs`
+    > - Maak een variabele met:
+    >     -  de `prijs` voor een `liter` Euro 95 benzine
+    > - Maak een variabele:
+    >     -  die nog `geen waarde` heeft
 
-Gebruik `echo` om de variabelen onder elkaar op het scherm te zetten.
+- Gebruik `echo` om:
+    - de variabelen onder elkaar op het scherm te zetten.
+
+## klaar
+- commit alles naar je github
+

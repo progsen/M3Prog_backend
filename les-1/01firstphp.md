@@ -22,22 +22,32 @@ nav_exclude: true
 - Tussen deze start- en eind PHP tags schrijf je PHP code
 - Zet je het NIET tussen deze PHP tags, dan doet PHP er niets mee!
 
-- Maak een nieuw bestand: `hello.php`
+- Maak een nieuw bestand: `hello.php` in je `public` directory:
+    > ![](img/hello.PNG)
 - Zet de juiste start en eind tags er in
 - Zet tussen de start en eind tags deze code:
 
 ```php
 echo "Hello World!";
 ```
-Open een terminal venster in de map met `hello.php` en voer dit commando uit:
 
-`php hello.php`
+## TESTEN
+
+- Open je browser en ga naar:
+    - [http://localhost:88/hello.php](http://localhost:88/hello.php)
 
 ## Nu zelf proberen
 
 - Maak een nieuw PHP script: `its-me.php`.
 - Schrijf nu zelf PHP-code en gebruik `echo` om je naam, klas en je studentnummer op het scherm te zetten.
-- Voer het script uit (zie boven hoe je dat doet)
-- Maak een screenshot van de output en zet deze in de map.
+- toon dit in de browser
+    > Voorbeeld:  
+    > ![](img/itsme.PNG)
+- Maak een `screenshot` van de output en zet deze in de directory:
+    - `M3Prog/screenshots`
+    - noem de file `itsme.png`
 
 
+## klaar?
+
+- commit alles naar je github
