@@ -132,6 +132,7 @@ $kosten = berekenRitKosten(1200, 10, 1.89);
 - Voeg wat `kleuren` en `stijlen` toe te voegen met CSS zodat het er prettig uit ziet.
 - maak een screenshot als bewijs:
   - `04 autorit.png`
+    - zet deze in je `screenshots` directory
   
 
 ## klaar

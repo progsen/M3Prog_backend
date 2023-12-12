@@ -91,6 +91,7 @@ $titel = "Mediacollege Amsterdam";
 
 - Maak een screenshot van de pagina
   - noem die: `02phphtml.png`
+    - zet deze in je `screenshots` directory
 
 
 ## klaar

@@ -54,6 +54,7 @@ nav_exclude: true
 - Voeg wat `kleuren` en `stijlen` toe te voegen met CSS zodat het er prettig uit ziet.
 - maak een screenshot als bewijs:
   - `04 vliegen.png`
+    - zet deze in je `screenshots` directory
   
 > de uitkomsten zouden moeten zijn:
 > - 3722 km: €354.34

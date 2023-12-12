@@ -43,6 +43,7 @@ Eigenlijk is het programmeren van websites niets anders dan vanaf de server een 
 - Vraag het PHP-script op via je `localhost` en inspecteert de headers met de web inspector
 - Wat zie je? Maak een screenshot en zet hem bij het PHP-bestand.
     - noem het screenshot `05 404.png`
+        - zet deze in je `screenshots` directory
 
 ### Opdracht 2 - Met PHP en een 302 status code de client doorverwijzen
 

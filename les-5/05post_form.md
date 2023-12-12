@@ -79,6 +79,7 @@ nav_exclude: true
 - Zet de ingevoerde gegevens mooi op het scherm.
 - maak een screenshot:
   - `05formulier.png`
+    - zet deze in je `screenshots` directory
 
 > Tip: Gebruik `print_r($_POST)` om inhoud van de hele `$_POST` array op het scherm te zetten.
 

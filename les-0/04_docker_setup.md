@@ -44,9 +44,9 @@
   mariadb:
     image: mariadb:latest
     environment:
-      MYSQL_DATABASE: m6prog_db
-      MYSQL_USER: m6prog_user
-      MYSQL_PASSWORD: m6prog_pass
+      MYSQL_DATABASE: m3prog_db
+      MYSQL_USER: m3prog_user
+      MYSQL_PASSWORD: m3prog_pass
       MYSQL_ROOT_PASSWORD: R00tp@ss
     ports:
       - 3308:3306

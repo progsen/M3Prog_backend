@@ -5,8 +5,8 @@ Deze opdrachten bestaan uit een aantal video-instructies. Je krijgt deze les ook
 
 Na deze opdrachten kun je gegevens in de backend (PHP) opslaan in een database zodat je ze in de volgende les, in de frontend, kunt ophalen met Javascript en tonen op je dashboard in bijvoorbeeld een Chart of op een andere manier.
 
-1. [Database maken voor gegevensopslag](database)
-2. [Invoeren energieverbruik - meterstanden](meterstanden)
-3. [Verbinding maken met de database](connection)
-4. [Gegevens uit de database ophalen een weergeven](read_data)
-5. [Oefenen - Gegevens in JSON omzetten](json_oefenen)
+- [01database.md](01database.md)
+- [02meterstanden.md](02meterstanden.md)
+- [03connection.md](03connection.md)
+- [Gegevens uit de database ophalen een weergeven](read_data)
+- [Oefenen - Gegevens in JSON omzetten](json_oefenen)

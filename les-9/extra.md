@@ -50,6 +50,7 @@ Kies de juiste datatypes. Gebruik Google en doe zelf research naar welke [soorte
 {: .text-blue-100 .fs-6 }
 
   - Maak een screenshot van de structuur en sla deze op in de map
+    - zet deze in je `screenshots` directory
   - Nu ga je via het tabje "Invoegen" (Insert) steden toevoegen
   - Voeg nu rijen minstens 10 steden doe met alle gegevens (bij bestandsnaam zet je dus de naam van het foto-bestand, bijvoorbeeld: "parijs.jpg")
 

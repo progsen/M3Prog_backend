@@ -15,7 +15,8 @@ Dat doe je door een SQL opdracht te sturen via de verbinding die je hebt gemaakt
 {: .text-blue-100 .fs-6 }
 
 {% include youtube.md video="aDIGEHQvmCs" %}
-
+https://www.youtube.com/watch?v=aDIGEHQvmCs
+aDIGEHQvmCs
 ---
 Link naar de voorbeeld-code in de video:
 - [https://phpdelusions.net/pdo_examples/select#query](https://phpdelusions.net/pdo_examples/select#query)

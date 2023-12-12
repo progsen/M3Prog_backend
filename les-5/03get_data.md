@@ -50,6 +50,7 @@ Dit heb je als het goed is al gezien bij het inspecteren van een request:
     - maak het netjes op met html
     - maak een screenshot:
         - `05 querystring.png`
+            - zet deze in je `screenshots` directory
 
 ### Opdracht 1 - Gegevens uit de URL lezen via $_GET
 

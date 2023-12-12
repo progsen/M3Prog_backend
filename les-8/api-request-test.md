@@ -34,5 +34,6 @@ Na de video heb je als het goed is succesvol een JSON-response terug gekregen ui
 
 - Maak een test request (de url opvragen in je browser) naar de API van jouw keuze
 - Maak een screenshot van de uitvoer om te bewijzen dat de API JSON teruggeeft
+    - zet deze in je `screenshots` directory
 
 In de volgende stap ga je de API met PHP aanroepen zodat je de gegevens in jouw PHP-code kunt verwerken.
