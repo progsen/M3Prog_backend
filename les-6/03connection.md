@@ -53,7 +53,7 @@ Als de verbinding werkt kun je met de SQL-opdrachten (die je in phpMyAdmin al za
 ## Gebruiken
 
 - maak een nieuwe file:
-    - `meterstanden.php`
+    - `connectiontest.php`
     - eerst `includen` we onze` databasep.php`:
         > ![](img/include.PNG)
 
@@ -68,7 +68,7 @@ Als de verbinding werkt kun je met de SQL-opdrachten (die je in phpMyAdmin al za
 
 ## Testen
 
-- open je `meterstanden.php`
+- open je `connectiontest.php` in je browser
     - test of je dit krijgt met je browser:
     > ![](img/select1.PNG)
     
