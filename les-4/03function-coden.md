@@ -59,6 +59,7 @@ nav_exclude: true
 > - 3722 km: €354.34
 > - 9276 km: €1,011.61
 > - 803 km + business: €113.62 
+
 ## klaar
 - commit alles naar je github
 

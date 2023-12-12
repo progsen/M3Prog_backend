@@ -35,7 +35,7 @@ Zorg dat je deze instelling goed hebt staan, zodat je makkelijk een `docblock` k
   - De return waarde en het datatype van de return waarde
 
 
-### *extension nodig???? TODO*
+### *extension nodig???? TODO* 
 Je maakt een docblock door op de regel boven de function te gaan staan en `/**` boven de function te type en dan op enter te drukken.
 Daarna kun je alles goed invullen
 
@@ -60,7 +60,8 @@ Dit helpt ook bij het lezen van de code.
 - formateer al je `php` files
   - Het kan zijn dat je het volgende krijgt:
     > ![](img/noformat.PNG)
-    - installeer dan de formatter TODO
+    - installeer dan de formatter:
+      > ![](img/format.PNG)
 
 ## klaar
 - commit alles naar je github
