@@ -12,6 +12,7 @@ In de video laat ik zien hoe je nu de API kunt aanroepen met PHP, dus van jouw w
 
 {% include youtube.md video="TsNroakxSrM" %}
 
+https://www.youtube.com/watch?v=TsNroakxSrM
 ---
 
 ### Opdracht 2

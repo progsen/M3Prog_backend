@@ -6,6 +6,8 @@ parent: Les 7
 nav_exclude: true
 ---
 
+https://www.chartjs.org/docs/latest/
+
 # Voorbeeld chart maken
 
 Eerst ga je een nieuwe chart maken en alvast de data structuur uitproberen zodat de datums en de meterstanden gebruikt worden.

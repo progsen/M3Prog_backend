@@ -14,6 +14,7 @@ Die gegevens gebruik je vervolgens om in je API aanroep.
 In mijn voorbeeld ga ik de gebruiker laten kiezen wat voor type activiteit getoond moet worden
 
 {% include youtube.md video="nYSJS4yZx68" %}
+https://www.youtube.com/watch?v=nYSJS4yZx68
 
 ---
 

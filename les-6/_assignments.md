@@ -8,5 +8,5 @@ Na deze opdrachten kun je gegevens in de backend (PHP) opslaan in een database z
 - [01database.md](01database.md)
 - [02meterstanden.md](02meterstanden.md)
 - [03connection.md](03connection.md)
-- [Gegevens uit de database ophalen een weergeven](read_data)
-- [Oefenen - Gegevens in JSON omzetten](json_oefenen)
+- [04read_data.md](04read_data.md)
+- [05json_oefenen.md](05json_oefenen.md)

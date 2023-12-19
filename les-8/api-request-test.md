@@ -14,6 +14,7 @@ nav_exclude: true
 - Kijk of je JSON op je scherm krijgt
 
 {% include youtube.md video="MFIvX8WQ3KU" %}
+https://www.youtube.com/watch?v=MFIvX8WQ3KU
 
 Hier een paar websites met links naar API's die je kunt gebruiken:
 
