@@ -20,8 +20,12 @@ Je ziet daarna de ingevoerde meterstanden in je chart.
 
 ---
 
+## klaar
+- commit alles naar je github
+
+
+
 ### Links
-{: .text-green-100 .fs-3 }
 
 - [PHP json_encode() documentatie](https://www.php.net/manual/en/function.json-encode.php) - Met deze function zet je een array om naar JSON.
 - [PHP header() documentatie](https://www.php.net/manual/en/function.header.php) - Met de `header()` function stuur je de header die aangeeft dat er JSON aan komt.

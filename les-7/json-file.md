@@ -20,10 +20,14 @@ Zo kun je eerst uitproberen of je deze JSON met Javascript om kan zetten in een 
 
 {% include youtube.md video="bJfICHQ62es" %}
 
----
+
+## klaar
+- commit alles naar je github
+
+
+
 
 ### Meer over JSON
-{: .text-green-100 .fs-3 }
 
 - [Korte JSON tutorial](https://www.youtube.com/watch?v=iiADhChRriM&ab_channel=WebDevSimplified) (Youtube)
 - [JSON gegevens controleren](https://jsonlint.com/) - Hiermee kun je zien of je JSON klopt

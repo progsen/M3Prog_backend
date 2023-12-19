@@ -1,0 +1,29 @@
+---
+title: Chart klaar maken voor energy per jaar
+layout: page 
+permalink: :path/:basename 
+parent: Les 7
+nav_exclude: true
+---
+
+
+## Opzet
+- maak nieuwe files aan:
+    - `meterstanden.html`
+    - `assets/js/meterstandApp.js`
+
+- zorg dat je daar weer een chart in krijgt
+    > zie opdracht `01chart.md`
+
+
+## Chart aanpassen
+
+- pas nu de chart aan zodat die zo wordt:
+    > ![](img/energyday.PNG)
+
+> TIPS:
+> - je past aan in `meterstandApp.js`
+> - je `type` van je `chart` kan je aanpassen om het uiterlijk te veranderen
+
+## klaar
+- commit alles naar je github
