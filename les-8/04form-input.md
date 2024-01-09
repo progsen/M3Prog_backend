@@ -8,7 +8,10 @@ nav_exclude: true
 
 # Een formulier gebruiken als input voor je script 
 
-Je gaat nu een formulier toevoegen waarmee de bezoeker van je pagina iets kan doorsturen.
+Je gaat nu een formulier toevoegen waarmee de bezoeker via jouw php site de api kan aanroepen
+> bijvoorbeeld:
+> je kan een pokemon opzoeken
+
 Die gegevens gebruik je vervolgens om in je API aanroep.
 
 In mijn voorbeeld ga ik de gebruiker laten kiezen wat voor type activiteit getoond moet worden

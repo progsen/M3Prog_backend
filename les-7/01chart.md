@@ -50,7 +50,7 @@ nav_exclude: true
 ## canvas in html
 
 - open je `jsonchart.html` in visual studio code
-    - zet nu het omcircled in je `jsonchart.html`:
+    - zet nu het omcirclede in je `jsonchart.html`:
      > ![](img/canvasplak.PNG)
 
 - nu nog je `chartApp.js` koppelen:
@@ -62,8 +62,9 @@ nav_exclude: true
 
 ## test!
 
-- open je `jsonchart.html` in je browser
+- open je `jsonchart.html` in je browser:
 
+> ![](img/jsonchart.PNG)
 
 
 

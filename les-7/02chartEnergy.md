@@ -24,6 +24,7 @@ nav_exclude: true
 > TIPS:
 > - je past aan in `meterstandApp.js`
 > - je `type` van je `chart` kan je aanpassen om het uiterlijk te veranderen
+> - je past je `data` en `labels` ook aan
 
 ## klaar
 - commit alles naar je github

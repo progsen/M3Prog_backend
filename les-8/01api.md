@@ -17,12 +17,11 @@ Ze bieden jou toegang tot hun gegevens en diensten. Zij hebben de gegevens en ji
 ---
 
 ### JSON 
-{: .text-blue-100 .fs-6 }
 
-De meeste moderne API's gebruiken het JSON-formaat om gegevens uit te wisselen. Dit heb je bij het gebruiken van de weerbericht API al gezien, en ook in de vorige lessen.
+> De meeste moderne API's gebruiken het JSON-formaat om gegevens uit te wisselen. Dit heb je bij het gebruiken van de weerbericht API al gezien, en ook in de vorige lessen.
 JSON kun je in de meeste programmeertalen makkelijk omzetten naar een handig datatype, zoals een object of een array.
-
-In PHP gebruik je de function `json_decode()` om de JSON (nu is dat nog tekst) om te zetten naar een array.
+> 
+> In PHP gebruik je de function `json_decode()` om de JSON (nu is dat nog tekst) om te zetten naar een array.
 
 Deze (fun) API voorspelt jouw leeftijd aan de hand van je naam.
 De API kun je aanroepen met de `GET` parameter `name` met daarin je naam:
@@ -53,21 +52,24 @@ echo $data['age'];
 // Dit toont het getal 39 op het scherm
 ```
 
----
 
-### Een API kiezen
-{: .text-blue-100 .fs-6 }
+### Het voorbeeld proberen
 
-Ga naar deze pagina: [https://developer.vonage.com/blog/2021/03/15/the-ultimate-list-of-fun-apis-for-your-next-coding-project](https://developer.vonage.com/blog/2021/03/15/the-ultimate-list-of-fun-apis-for-your-next-coding-project). 
+- maak een nieuwe php file:
+    - `raadleeftijd.php`
 
-Hier staan een heleboel gratis API's die je kunt gebruiken. Sommige zijn nogal onzinnig, maar zijn prima om te gebruiken om code te oefenen.
+- gebruik de code hierboven in de voorbeelden om:
+    - de api aan te roepen
+    - de data te tonen
 
-Let op, sommige API's kun je alleen met een API-key gebruiken, hiervoor moet je je registreren. Kies daarom één van onderstaande API's om mee te oefenen:
+### testen
 
-- Bored API (deze ga ik gebruiken in mijn les en video's)
-- REST Countries
-- Pokemon API
-- Kanye Rest API
+- open `raadleeftijd.php` in je browser en kijk of je de leeftijd ziet:
+    > ![](img/leeftijd.PNG)
+
+
+## klaar
+- commit alles naar je github
 
 
 
