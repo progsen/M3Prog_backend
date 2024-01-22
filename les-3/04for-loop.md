@@ -19,6 +19,7 @@ nav_exclude: true
 
 - Maak een nieuw bestand:
     - `for-loop.php` met HTML structuur en zet de PHP-code weer tussen de `<body></body>`.
+        - in de directory `public/03`
 
 - Maak een array `$pokemons` met minstens 5 [Pokemon namen]
     - zie (https://www.pokemon.com/nl/pokedex/)

@@ -36,6 +36,7 @@ Dit heb je als het goed is al gezien bij het inspecteren van een request:
 
 - maak een nieuwe file:
     - `querystrings.php`
+        - in de directory `public/05`
 - maak dat nu na:
     > ![](img/stad.PNG)
     - open `http://localhost:88/querystrings.php?stad=Amsterdam&temperatuur=23` 
@@ -59,6 +60,7 @@ Dit heb je als het goed is al gezien bij het inspecteren van een request:
 - Maak eerst twee bestanden:
     - `vraag.html`
     - `antwoord.php`
+    - in de directory `public/05`
 
 - zet de standaard html structuur in `vraag.html`
 - Maak in `vraag.html` een HTML-document met deze link:
@@ -88,6 +90,7 @@ Dit heb je als het goed is al gezien bij het inspecteren van een request:
 - Maak een bestand:
     - `fahrenheit.php`
     - `fahrenheit.html`
+    - in de directory `public/05`
 - Voeg nu een link toe aan `fahrenheit.html`
 
 ```html 
@@ -113,6 +116,7 @@ Dit heb je als het goed is al gezien bij het inspecteren van een request:
 
 - maak een nieuwe file
     - `fahrenheitPerDegree.php`
+        - in de directory `public/05`
     - gebruik een for loop om links te maken voor:
         - alle graden celsius van 0-45
 

@@ -10,6 +10,7 @@ nav_exclude: true
 
 - maak een nieuwe file:
     -  `meterstanden.php`
+        - in de directory `public/06`
     - kopieer je code uit  `connectiontest.php` naar
         - `meterstanden.php`
     

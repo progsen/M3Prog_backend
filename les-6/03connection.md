@@ -54,6 +54,7 @@ Als de verbinding werkt kun je met de SQL-opdrachten (die je in phpMyAdmin al za
 
 - maak een nieuwe file:
     - `connectiontest.php`
+        - in de directory `public/06`
     - eerst `includen` we onze` databasep.php`:
         > ![](img/include.PNG)
 

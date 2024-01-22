@@ -29,6 +29,7 @@ $titel = "Mediacollege Amsterdam";
 
 - Maak een nieuw bestand:
   - `php-en-html.php`
+    - in de directory `public/02`
 - type in Visual Studio Code: 
   - `! + TAB`
     > ![](img/starthtml.PNG)

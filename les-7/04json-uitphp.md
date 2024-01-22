@@ -14,7 +14,8 @@ nav_exclude: true
 ## Opzet
 - maak nieuwe files aan:
     - `meterstandenUitPhp.html`
-    - `assets/js/meterstandUitDbApp.js`
+    - `assets/js/meterstandUitPhpApp.js`
+        - in de directory `public/07`
 
 - zet daar je code in die je in de files hieronder ziet 
     - `meterstanden.html`
@@ -29,6 +30,7 @@ nav_exclude: true
 
 - maak een nieuwe php file:
     - `meterstandenUitPhp.php`
+        - in de directory `public/07`
 
 - zet daar de volgende code in:
     > ![](img/jsonphp.PNG)

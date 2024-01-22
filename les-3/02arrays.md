@@ -13,6 +13,7 @@ nav_exclude: true
 *Zet ook comments in je code, met uitleg over wat de code doet*
 
 - Maak eerst een nieuw bestand `arrays.php` met een HTML start structuur. 
+    - in de directory `public/03`
     - visual studio code:
         - type `!`, kies de bovenste optie
 - Vraag het bestand op via `localhost:88` in je browser 

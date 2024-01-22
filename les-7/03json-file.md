@@ -20,6 +20,7 @@ Wij gaan straks een json file maken met deze structuur:
 
 - maak een nieuwe file:
     - `assets/data/energy.json`
+        - in de directory `public/07`
 
 - zet daar het volgende in:
 > ![JSON file](img/json.png)

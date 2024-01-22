@@ -44,6 +44,19 @@ Van te voren weten wij dat het een `php-html` project gaat worden, dus de struct
     > - `public/assets/scss`
     > - `public/images`
 
+## opdrachten folders
+
+- Maak de volgende directories aan onder `public`:
+   - 01
+   - 02
+   - 03
+   - 04
+   - 05
+   - 06
+   - 07
+   - 08
+- zet in al die directories ook het `.gitkeep` bestand
+ 
 ## Resultaat
 De structuur van de folder zou er zo uit moeten zien: <br>
 ![](img/folder_structuur.png)

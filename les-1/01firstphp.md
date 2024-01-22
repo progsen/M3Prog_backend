@@ -22,7 +22,7 @@ nav_exclude: true
 - Tussen deze start- en eind PHP tags schrijf je PHP code
 - Zet je het NIET tussen deze PHP tags, dan doet PHP er niets mee!
 
-- Maak een nieuw bestand: `hello.php` in je `public` directory:
+- Maak een nieuw bestand: `hello.php` in je `public\01` directory:
     > ![](img/hello.PNG)
 - Zet de juiste start en eind tags er in
 - Zet tussen de start en eind tags deze code:
@@ -34,11 +34,14 @@ echo "Hello World!";
 ## TESTEN
 
 - Open je browser en ga naar:
-    - [http://localhost:88/hello.php](http://localhost:88/hello.php)
+    - [http://localhost:88/01/hello.php](http://localhost:88/01/hello.php)
+
 
 ## Nu zelf proberen
 
 - Maak een nieuw PHP script: `its-me.php`.
+    - in de directory `public/01`
+
 - Schrijf nu zelf PHP-code en gebruik `echo` om je naam, klas en je studentnummer op het scherm te zetten.
 - toon dit in de browser
     > Voorbeeld:  

@@ -34,6 +34,7 @@ Zoek in de [documentatie van PHP](https://www.php.net/manual/en/) naar onderstaa
 ### De functions gebruiken
 
 - Maak nu een nieuw bestand `functions.php`
+    - in de directory `public/01`
 - gebruik de functions in `PHP-code` (vergeet de start- en eind PHP tags niet!)
 - Zorg dat je voor elke function iets op het scherm zet met `echo`
 

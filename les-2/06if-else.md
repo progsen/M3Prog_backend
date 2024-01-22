@@ -17,6 +17,7 @@ nav_exclude: true
 
 - Maak een nieuw bestand:
     - `reiskosten.php` 
+        - in de directory `public/02`
     
 - schrijf PHP-code voor onderstaande situatie:
 

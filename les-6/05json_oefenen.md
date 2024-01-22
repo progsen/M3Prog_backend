@@ -33,6 +33,7 @@ Object in Javascript.
 
 - maak een nieuwe file aan:
   - `json.php`
+        - in de directory `public/06`
   - maak daar een `php begin tag` in
 
 - zet daar het volgende in:

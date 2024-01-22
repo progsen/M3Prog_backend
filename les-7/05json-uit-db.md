@@ -17,6 +17,7 @@ Je ziet daarna de ingevoerde meterstanden in je chart.
 
 - maak een nieuwe file:
     - `meterstandenUitDB.php`
+        - in de directory `public/07`
     - eerst `includen` we onze` database.php`:
         > ![](img/include.PNG)
 
@@ -37,9 +38,14 @@ Je ziet daarna de ingevoerde meterstanden in je chart.
     - direct naar json omzetten gaat niet helemaal aansluiten dus neem deze code over:
     > ![](img/responseobject.PNG)
     
+## html
+
+- maak een nieuwe file:
+    - `meterstandenDbPhp.html`
+        - in de directory `public/07`
+        - zet daar hetzelfde in als wat in `meterstanden.html` staat
+
 ## testen
-
-
 - open je browser en ga naar `meterstandenUitDB.php`
     > als het goed is krijg je jouw data als json te zien:
     > ![](img/mooiejson.PNG)

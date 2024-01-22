@@ -26,6 +26,7 @@ Hier vind je meer info over naamgeving van variabelen in PHP:
 # Maak verschillende soorten variabelen
 
 - Maak een bestand `datatypes.php`
+    - in de directory `public/02`
 
 Kijk naar de voorbeelden hierboven en kies het juiste soort variabelen bij de inhoud
 

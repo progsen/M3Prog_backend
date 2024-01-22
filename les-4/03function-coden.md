@@ -36,6 +36,7 @@ nav_exclude: true
 ![Berekenen](img/calculate.png)
 
 - Maak een bestand `vliegkosten.php`
+    - in de directory `public/04`
     - laadt met `include_once` je `functions.php` in.
 - Test je function uit door hem aan te roepen in `vliegkosten.php`:
     > **Bereken nu de kosten door jouw eigen function te gebruiken**

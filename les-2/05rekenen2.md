@@ -12,6 +12,7 @@ nav_exclude: true
 
 - Maak een nieuw bestand:  
     - `rekenen.php`
+        - in de directory `public/02`
 - Open deze pagina: https://www.php.net/manual/en/ref.math.php 
     > Daar kan je alle mathematische functions van PHP kunt vinden
 

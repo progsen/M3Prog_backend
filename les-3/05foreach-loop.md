@@ -27,6 +27,7 @@ nav_exclude: true
 
 
 - Maak een nieuw bestand `associatief.php` met HTML-structuur.
+    - in de directory `public/03`
 - Zoek op internet naar het verbruik van 5 huishoudelijke apparaten in `KwH`.
 - Maak een nieuwe variabele `$verbruik` met een **associatieve array*.
 - Als `key` gebruik je de naam van het apparaat,

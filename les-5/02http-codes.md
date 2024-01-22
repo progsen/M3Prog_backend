@@ -37,6 +37,7 @@ Eigenlijk is het programmeren van websites niets anders dan vanaf de server een 
 ![302 Redirect](img/error_404.jpeg)
 
 - Maak een bestand `hdr404.php`
+    - in de directory `public/05`
 - Lees in : https://www.php.net/manual/en/function.header.php hoe je een response header kunt terugsturen met het de `header()` function
     > - Belangrijk: je mag geen inhoud op het scherm zetten voor je de header stuurt!
 - Stuur met het de `header()` function een 404 header
@@ -49,6 +50,7 @@ Eigenlijk is het programmeren van websites niets anders dan vanaf de server een 
 
 - Maak een nieuw bestand:
     - `hdr302.php`  
+        - in de directory `public/05`
 
 > Met een 302 response code kun je de client doorsturen naar een andere URL. Dit noem je een *redirect*.
 

@@ -11,6 +11,7 @@ nav_exclude: true
 Je weet nu hoe je een variabele maakt met PHP en welke verschillende data types er zijn:
 
 - Maak een bestand `variabelen.php`
+    - in de directory `public/01`
 - Maak in het PHP-bestand eerst een standaard HTML-document structuur.
 - Open een PHP tag helemaal bovenaan
 - Maak nu minstens 4 variabelen en kies de juiste data-types bij de gegevens (kies zelf een duidelijke naam voor de variabele):

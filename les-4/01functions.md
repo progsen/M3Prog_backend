@@ -43,9 +43,10 @@ currentDateTime(); // 03-09-2022 10:22:45
 
 ### Opdracht 1
 
-- Maak 2 nieuwe bestand:
+- Maak 2 nieuwe bestanden:
     - `functions.php` 
     - `script.php`
+    - in de directory `public/04`
 - Zet de function `currentDateTime()` die hierboven staat in het bestand `functions.php`
 - Zet ook de function `add()` (hieronder te zien) in `functions.php`
 

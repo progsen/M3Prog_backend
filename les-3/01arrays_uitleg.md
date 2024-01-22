@@ -8,6 +8,7 @@ nav_exclude: true
 
 - maak een nieuwe file:
     - `arrays_uitleg.php`
+        - in de directory `public/03`
 - Lees de uitleg hieronder
     - en maak de opdrachten
 

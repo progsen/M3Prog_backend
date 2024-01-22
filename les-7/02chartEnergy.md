@@ -9,6 +9,7 @@ nav_exclude: true
 
 ## Opzet
 - maak nieuwe files aan:
+    - in de directory `public/07`
     - `meterstanden.html`
     - `assets/js/meterstandApp.js`
 

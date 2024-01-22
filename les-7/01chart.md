@@ -16,6 +16,7 @@ nav_exclude: true
 
 - maak een nieuwe file:
     - `jsonchart.html`
+        - in de directory `public/07`
     - open `jsonchart.html` in visual studio code
         - gebruik `!` om een basis html opzet te maken
 
@@ -42,6 +43,7 @@ nav_exclude: true
 
 - maak een file:
     - `assets/js/chartApp.js`
+        - in de directory `public/07`
 - ga naar:
     - https://www.chartjs.org/docs/latest/getting-started/
     - zet nu het omcircled in je `chartApp.js`:

@@ -12,6 +12,7 @@ nav_exclude: true
 > Je gaat nu expres een fout maken om te kijken of je nu de foutmeldingen krijgt te zien
 
 - Maak een nieuw bestand: `foutje.php`
+    - in de directory `public/02`
 - Schrijf de start en eind PHP tags die je inmiddels kent
 - Zet tussen de PHP-tags deze code:
 
@@ -31,6 +32,7 @@ echo 100/0; // Hier wordt door nul gedeeld, dat is ook een fout!
 
 - maak een nieuwe php:
     - `fout2.php`
+        - in de directory `public/02`
 
 ```php
 echo "dit is goed toch?"

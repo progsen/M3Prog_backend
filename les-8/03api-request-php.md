@@ -13,6 +13,7 @@ nav_exclude: true
 
 - maak een php file aan:
     - `apitest.php`
+        - in de directory `public/08`
     > hier werk je in voor deze opgave
 
 

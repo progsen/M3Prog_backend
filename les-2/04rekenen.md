@@ -38,6 +38,7 @@ Dat ziet er dan zou uit:
 
 - Maak een nieuw bestand:
     - `temperatuur.php` 
+        - in de directory `public/02`
 
 - neem deze code over in `temperatuur.php` :    
     > ![](img/voorbeeldrekenen.PNG)

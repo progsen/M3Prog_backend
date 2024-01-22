@@ -11,6 +11,7 @@ nav_exclude: true
 ### Php + Html
 
 - Maak nu een nieuw bestand `phphtml.php`
+    - in de directory `public/01`
 
 PHP en HTML kun je samen gebruiken. Dat maakt het heel krachtig omdat je zo dynamische code (PHP) kunt mixen
 met gewone HTML-code.

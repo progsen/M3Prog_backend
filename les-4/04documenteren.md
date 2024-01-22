@@ -29,6 +29,7 @@ Zorg dat je deze instelling goed hebt staan, zodat je makkelijk een `docblock` k
 ### Opdracht 1 - Docblocks toevoegen
 
 - Open je `functions.php` bestand die je in deze les hebt gemaakt 
+    - die staat in de directory `public/04`
 - Maak voor elke functions een `docblock` met:
   - Korte beschrijving wat de function code doet
   - De beschrijving van de parameters en het data-type van elke parameter

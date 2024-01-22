@@ -57,6 +57,7 @@ echo $data['age'];
 
 - maak een nieuwe php file:
     - `raadleeftijd.php`
+        - in de directory `public/08`
 
 - gebruik de code hierboven in de voorbeelden om:
     - de api aan te roepen
