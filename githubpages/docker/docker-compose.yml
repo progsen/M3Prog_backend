@@ -1,0 +1,13 @@
+version: '3.9'
+
+# Services
+services:
+
+  # PHP FPM Service
+  githubpages:
+    image: jekyll/jekyll
+    volumes:
+      - '.M3Prog_backend/:/var/www/html'
+    ports:
+      - 88:80
+      - 881:443
