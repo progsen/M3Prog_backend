@@ -18,8 +18,6 @@ In mijn voorbeeld ga ik de gebruiker laten kiezen wat voor type activiteit getoo
 
 https://www.youtube.com/watch?v=nYSJS4yZx68
 
----
-
 ### Opdracht 3
 
 - Maak een formulier en gebruik de gegevens uit het form in de aanroep van jouw API
