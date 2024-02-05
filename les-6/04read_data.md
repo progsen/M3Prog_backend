@@ -69,11 +69,3 @@ nav_exclude: true
 - commit alles naar je github
 
 
-
-
-
-
-
-
-
-

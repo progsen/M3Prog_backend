@@ -80,7 +80,6 @@ Object in Javascript.
 
 
 https://www.youtube.com/watch?v=WV5Oi-ufxTQ
-
 ## klaar
 - commit alles naar je github
 
