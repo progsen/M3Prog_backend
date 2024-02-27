@@ -25,7 +25,7 @@ voer alle stappen uit die hieronder staan
 Van te voren weten wij dat het een `php-html` project gaat worden, dus de structuur is redelijk bekend.
 
 - alles wat je nu gaat doen moet je in de `m3prog_project` map doen 
-1. Navigeer naar deze folder en maak de volgende folders:
+1. ga naar `m3prog_project` en maak de volgende folders:
    > - `\docker\nginx` *( hier komt de configuratie van nginx terecht )*
    > - `\public` *( dit is de folder die zichtbaar is vanuit de browser )*
    > - `\source` *( hier staan straks de bestanden met php functies )*
