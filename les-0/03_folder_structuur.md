@@ -12,7 +12,7 @@
 
 ## Structuur
 Van te voren weten wij dat het een `php-html` project gaat worden, dus de structuur is redelijk bekend.
-1. Navigeer naar deze folder en maak de volgende bestanden:
+1. Navigeer naar deze folder en maak de volgende folders:
    > - `\docker\nginx` *( hier komt de configuratie van nginx terecht )*
    > - `\public` *( dit is de folder die zichtbaar is vanuit de browser )*
    > - `\source` *( hier staan straks de bestanden met php functies )*
