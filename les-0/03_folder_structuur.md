@@ -10,6 +10,16 @@
 - Maak een directory `m3prog_project` aan in de `M3PROG` directory
 > Dit is vanaf nu de root folder van het project.
 
+## mappen en bestanden maken
+
+Om met docker en php te kunnen werken moeten we ons project inrichten met mappen en bestanden
+
+
+De structuur van de folder komt er straks zo uit te zien:
+> ![](img/folder_structuur.png)
+
+voer alle stappen uit die hieronder staan
+
 ## Structuur
 Van te voren weten wij dat het een `php-html` project gaat worden, dus de structuur is redelijk bekend.
 1. Navigeer naar deze folder en maak de volgende folders:
