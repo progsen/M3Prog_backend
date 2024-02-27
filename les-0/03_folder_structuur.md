@@ -40,7 +40,7 @@ Van te voren weten wij dat het een `php-html` project gaat worden, dus de struct
 > Voor nu mogen dit lege bestanden zijn. 
 - Maak de volgende bestanden aan:
    > - `\public\index.php`  *( dit is straks het hoofd bestand dat door de > browser gelezen gaat worden )*
-   > - `\docker\nginx\nginx.conf` *( gebruik hiervoor het voorbeeld bestand: > [nginx.conf](../voorbeeld_bestanden/nginx.conf) )*
+   > - `\docker\nginx\nginx.conf` *( deze gaan we straks vullen )*
    > - `\source\config.php` *( hier komen de instellingen zoals de hostname en > de database login gegevens )*
    > - `\source\database.php` *( dit bestand gebruiken wij straks voor de > database verbinding )*
    > - `\\.env` *( Hier komen je instellingen zoals de database login gegevens > te staan )*
