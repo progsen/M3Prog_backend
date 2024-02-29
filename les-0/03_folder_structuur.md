@@ -2,6 +2,17 @@
 
 > Voor dat wij gaan beginnen met code schrijven is het belangrijk om de correcte structuur neer te zetten.  
 
+## visual studio settings
+
+Om deze oefening makkelijker te maken:
+- ga in visual studio code naar:
+   - file
+      - preferences
+         - settings
+   - zoek nu op explorer
+      - vink de volgende setting `UIT`
+      > ![](img/visualcollapse.png)
+      
 ## container maken
 
 - ga naar je `M3Prog` directory 
