@@ -11,8 +11,8 @@ Om deze oefening makkelijker te maken:
          - settings
    - zoek nu op explorer
       - vink de volgende setting `UIT`
-      > ![](img/visualcollapse.png)
-      
+      > ![](img/visualcollapse.PNG)
+
 ## container maken
 
 - ga naar je `M3Prog` directory 
