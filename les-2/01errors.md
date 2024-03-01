@@ -36,12 +36,13 @@ echo 100/0; // Hier wordt door nul gedeeld, dat is ook een fout!
 
 ```php
 echo "dit is goed toch?"
+echo "hoop ik?"
 ```
 
 - Open dit bestand via je localhost:88
     - als het goed is zie je nu een foutmelding:
     > *Parse error: syntax error, unexpected end of file, expecting "," or ";" in /var/www/html/public/fout2.php on line 2*  
-    > Dit betekent dat je je `;` vergeten bent
+    > Dit betekent dat je je `;` vergeten bent achter de regels
 
 - maak een screenshot van je `resultaat`:
     - `foutje.png`
