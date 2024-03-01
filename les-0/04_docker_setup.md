@@ -1,14 +1,11 @@
 ## Docker
 > Wij werken weer met docker containers voor de web based applicatie.
 > In het document `docker-compose.yml` gaan wij de structuur aanmaken van dit project.
-- geef de versie aan door dit boven in de file te plakken: 
-```yaml
-version: '3.9'
-```
+
 - maak daaronder een onderdeel `services:` aan
 ```yaml
 version: '3.9'
-  services:
+services:
 ```
 
 ## php
