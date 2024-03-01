@@ -2,7 +2,7 @@
 > Wij werken weer met docker containers voor de web based applicatie.
 > In het document `docker-compose.yml` gaan wij de structuur aanmaken van dit project.
 
-- maak daaronder een onderdeel `services:` aan
+- zet daar het volgende in:
 ```yaml
 version: '3.9'
 services:
