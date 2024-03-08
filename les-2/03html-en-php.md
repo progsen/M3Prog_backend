@@ -47,7 +47,8 @@ $titel = "Mediacollege Amsterdam";
     > - Voor de `titel` van de pagina
     > - Voor de `URL` naar een `afbeelding` van het internet
     > - Voor de `titel` van de afbeelding
-    > - Met jouw eigen `githubnaam`
+    > - Voor `auteur`:
+    >     - met waarde:jouw eigen `githubnaam` 
 
 ## Echo in html UITLEG
 
@@ -81,7 +82,7 @@ $titel = "Mediacollege Amsterdam";
   - zet hier een title in waarin staat:
     - `Auteur: ...`
 - gebruik nu de `korte versie` om:
-    - de `...` te vervangen met je `githubnaam` *(de variabele dus!)*
+    - de `...` te vervangen met `auteur` *(de variabele dus!)*
 
 - Open je `php-en-html.php` in je browsers *(vergeet docker niet)* en:
     - kijk of de pagina uitvoer correct is:
