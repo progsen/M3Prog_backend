@@ -39,7 +39,7 @@ echo "Als je ${getal} afrond dan krijg je: ${afgerond}";
     - Sla de uitkomst op in de variabele `$afgerond1`
     - Gebruik `echo` om de waarde op het scherm te zetten. 
 
-- Zet dit je getal met kommas in een  nieuw `variabele`:
+- Zet je getal met kommas in een  nieuw `variabele`:
     - noem deze `$getal2`
 - Zoek nu de function om getallen naar `beneden` af te ronden (Round fractions down)
     - Gebruik de functie met de variabele

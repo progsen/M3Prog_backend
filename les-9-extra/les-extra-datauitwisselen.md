@@ -92,3 +92,6 @@ laten wij dat eens gaan proberen te doen
 
 
         
+
+## klaar
+- commit alles naar je github
