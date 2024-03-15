@@ -16,7 +16,7 @@ nav_exclude: true
 PHP en HTML kun je samen gebruiken. Dat maakt het heel krachtig omdat je zo dynamische code (PHP) kunt mixen
 met gewone HTML-code.
 
-Zet onderstaande code in het `phphtml.php` bestand en vraag het bestand op in je browser via de juiste http://localhost url.
+Zet onderstaande code in het `phphtml.php` bestand en vraag het bestand op in je browser via de juiste http://localhost:88 url.
 
 ```php
 <!doctype html>

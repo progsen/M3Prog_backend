@@ -90,8 +90,5 @@ laten wij dat eens gaan proberen te doen
         > je stuurt patientnummer `89907` op dan krijg je dus `89907-uitslag.txt` op de server
         - zet daar de gekregen uitslag in
 
-
-        
-
 ## klaar
 - commit alles naar je github
