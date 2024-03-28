@@ -22,6 +22,7 @@ Als de verbinding werkt kun je met de SQL-opdrachten (die je in phpMyAdmin al za
 
 - open `config.php` en zet daar de volgende code in:
     > ![](img/config.PNG)
+    > - let even op, de ../../ komt omdat we in `public/06` zitten. en naar `source` willen. we moeten 2 directories terug.
 
 - deze code leest de `.env` file uit
     > - die staat in je `m3prog_project` directory
