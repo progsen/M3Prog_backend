@@ -34,7 +34,6 @@ nav_exclude: true
 - Gebruik `print_r()` om de `$namen` array op het scherm te "dumpen"
 - Haal de laatste naam op met `array_pop()` en zet deze op het scherm;
 - Voeg een `nieuwe` naam toe met `array_push()`
-- Voeg een `nieuwe` naam toe met via de `$namen[]` methode
 - Gebruik weer `print_r()` om de `$namen` array op het scherm te "dumpen"
 - Maak een nieuwe variabele `$namen_tekst`
     - Gebruik de `implode()` met `<br>` als separator en zet het resultaat in `$namen_tekst`
