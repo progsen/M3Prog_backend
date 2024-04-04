@@ -25,6 +25,10 @@ nav_exclude: true
 
 - haal je fetch all weg met commentaar:
     > ![](img/fetchallweg.PNG)
+- verander de volgende code
+    > ![](img/selectmeter.PNG)
+    - naar:
+    > ![](img/statement.PNG)
 
 ## Rij voor Rij
 

@@ -24,7 +24,7 @@ Dit heb je als het goed is al gezien bij het inspecteren van een request:
 > De `$_GET` array bevat alle extra parameters die je aan een URL kunt meegeven.  
 >
 > Deze URL: 
-> - `http://localhost:88/querystrings.php?stad=Amsterdam&temperatuur=23`  
+> - `http://localhost:88/05/querystrings.php?stad=Amsterdam&temperatuur=23`  
 >   - bevat 2 *GET parameters*:
 >       - `stad`
 >       - `temperatuur`.
