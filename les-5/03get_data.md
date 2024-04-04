@@ -76,6 +76,7 @@ Dit heb je als het goed is al gezien bij het inspecteren van een request:
 - Zet de gegevens op het scherm.
 
 - Voeg een `tweede` link toe in `vraag.html` naar `antwoord.php` met andere GET-parameters.
+    > verander dus `leeftijd` en `opleiding` in iets anders
     - open je `vraag.html` in je browser en click op de tweede link
     - krijg je fouten?
         > ![](img/error.PNG)
