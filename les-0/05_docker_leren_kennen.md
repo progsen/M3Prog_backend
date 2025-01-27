@@ -9,11 +9,9 @@
 
 - Click op de `stop` knop van  `m3prog_project`
   > ![](img/stop.PNG)
+- lees: 
   > - Nu heb je `alles` gestopt
   > - In jouw project hangen `4 containers`
- - maak een screenshot van je `docker desktop`:
-    - `nothing runs.png`
-    - zet deze in je `screenshots` directory
 
 - start nu alles weer:
   > ![](img/start.PNG)
@@ -22,9 +20,6 @@
   > ![](img/1stop.PNG)
   - Open [http://localhost:88](http://localhost:88) in de browser
     - je krijgt nu geen resultaat, want je webserver is `down`
-  - maak een screenshot van je `docker desktop`:
-    - `no nginx.png`
-    - zet deze in je `screenshots` directory
 
 - start je `nginx` weer
 

@@ -4,8 +4,6 @@
 - maak in je github een nieuwe repository:
     - `M3Prog`
 - clone die naar je computer
-- maak in `M3Prog` een directory:
-    - `screenshots`
 
 
 ## WIFI
