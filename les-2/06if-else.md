@@ -1,11 +1,3 @@
----
-title: If en Else
-layout: page
-permalink: :path/:basename
-parent: Les 2
-nav_exclude: true
----
-
 # If - Else statement
 
 > Met het `if` en `if - else` statement bepaal je of code WEL of juist NIET wordt > uitgevoerd.

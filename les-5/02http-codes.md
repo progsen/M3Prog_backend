@@ -1,10 +1,3 @@
----
-title: HTTP Status code
-layout: page 
-permalink: :path/:basename 
-parent: Les 5 
-nav_exclude: true
----
 
 # HTTP Status codes
 

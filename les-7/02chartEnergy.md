@@ -1,10 +1,3 @@
----
-title: Chart klaar maken voor energy per jaar
-layout: page 
-permalink: :path/:basename 
-parent: Les 7
-nav_exclude: true
----
 
 
 ## Opzet

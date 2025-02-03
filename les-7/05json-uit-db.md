@@ -1,10 +1,4 @@
----
-title: JSON bestand inladen met Javascript 
-layout: page 
-permalink: :path/:basename 
-parent: Les 7
-nav_exclude: true
----
+
 
 # Nu de meterstanden uit de database nog
 

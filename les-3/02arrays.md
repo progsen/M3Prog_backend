@@ -1,10 +1,3 @@
----
-title: Arrays 
-layout: page 
-permalink: :path/:basename 
-parent: Les 3 
-nav_exclude: true
----
 
 ## Toepassings opdrachten
 

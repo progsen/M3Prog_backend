@@ -1,11 +1,3 @@
----
-title: Functions schrijven
-layout: page 
-permalink: :path/:basename 
-parent: Les 4 
-nav_exclude: true
----
-
 # UITLEG Functions schrijven
 
 > Vaak gebruik je bepaalde code op meerdere plekken. Dubbele code wil je > *absoluut* voorkomen, dat zorgt voor vreemde bugs en dezelfde code op > meerdere plekken aanpassen is niet wenselijk.

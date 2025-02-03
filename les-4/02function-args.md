@@ -1,10 +1,3 @@
----
-title: Functions met input
-layout: page 
-permalink: :path/:basename 
-parent: Les 4 
-nav_exclude: true
----
 
 # Functions met input argumenten
 

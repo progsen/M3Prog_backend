@@ -1,11 +1,3 @@
----
-title: For loop door een array 
-layout: page 
-permalink: :path/:basename 
-parent: Les 3 
-nav_exclude: true
----
-
 # For loop door een array
 
 > Een for-loop gebruik je om een stuk code een aantal keren uit te voeren >(Bekijk de slides van Les 3!)  

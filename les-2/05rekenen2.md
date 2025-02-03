@@ -1,11 +1,3 @@
----
-title: Rekenen met PHP - Deel 2
-layout: page
-permalink: :path/:basename
-parent: Les 2
-nav_exclude: true
----
-
 # Rekenen met PHP - Deel 2
 
 >PHP heeft ingebouwde mathematische functies, bijvoorbeeld om getallen (met cijfers >achter de komma) af te ronden naar boven of naar beneden.

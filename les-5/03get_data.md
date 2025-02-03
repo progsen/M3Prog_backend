@@ -1,10 +1,3 @@
----
-title: GET data lezen
-layout: page 
-permalink: :path/:basename 
-parent: Les 5 
-nav_exclude: true
----
 
 # GET data lezen uit de URL
 

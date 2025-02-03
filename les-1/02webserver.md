@@ -1,13 +1,3 @@
----
-title: De code beschikbaar maken via je webserver
-layout: page
-permalink: :path/:basename
-parent: Les 1
-nav_exclude: true
----
-
-
-
 ### Php + Html
 
 - Maak nu een nieuw bestand `phphtml.php`
@@ -38,8 +28,8 @@ nav_exclude: true
 ## Php code block:
 
 - maak een nieuwe file:
-    - phphtml_var.php
-- zet alle code van phphtml.php daar in
+    - `phphtml_var.php`
+- zet alle code van `phphtml.php` daar in
 - Zet nu boven de doctype een php open en sluit tag:
     > ![](img/phptag.PNG)
 

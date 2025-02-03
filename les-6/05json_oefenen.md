@@ -1,10 +1,4 @@
----
-title: Array naar JSON
-layout: page 
-permalink: :path/:basename 
-parent: Les 6 
-nav_exclude: true
----
+
 
 # Een array naar JSON omzetten
 

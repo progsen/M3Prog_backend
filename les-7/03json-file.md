@@ -1,10 +1,3 @@
----
-title: JSON bestand maken om te testen
-layout: page 
-permalink: :path/:basename 
-parent: Les 7
-nav_exclude: true
----
 
 # Een test JSON file maken
 

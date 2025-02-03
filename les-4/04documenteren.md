@@ -1,10 +1,3 @@
----
-title: Functions documenteren
-layout: page 
-permalink: :path/:basename 
-parent: Les 4 
-nav_exclude: true
----
 
 # Je functions documenteren
 
@@ -42,7 +35,7 @@ Daarna kun je alles goed invullen
 
 ![docblock vscode](img/docblock.gif)
 
----
+
 
 ### Opdracht 2 - Code formatteren (mooi uitlijnen en opmaken)
 

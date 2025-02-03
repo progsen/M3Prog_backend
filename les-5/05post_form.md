@@ -1,10 +1,3 @@
----
-title: POST form
-layout: page 
-permalink: :path/:basename 
-parent: Les 5 
-nav_exclude: true
----
 
 # POST methode gebruiken
 

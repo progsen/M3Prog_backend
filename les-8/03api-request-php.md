@@ -1,14 +1,3 @@
----
-title: API aanroepen met PHP
-layout: page 
-permalink: :path/:basename 
-parent: Les 8
-nav_exclude: true
----
-
-
-
-
 # opstarten
 
 - maak een php file aan:

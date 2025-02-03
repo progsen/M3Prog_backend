@@ -1,12 +1,3 @@
----
-title: Zorgen dat je foutmeldingen ziet!
-layout: page
-permalink: :path/:basename
-parent: Les 2
-nav_exclude: true
----
-
-
 ## Foutmelding testen
 
 > Je gaat nu expres een fout maken om te kijken of je nu de foutmeldingen krijgt te zien

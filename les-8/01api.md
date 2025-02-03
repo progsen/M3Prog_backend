@@ -1,10 +1,4 @@
----
-title: Wat is een API?
-layout: page 
-permalink: :path/:basename 
-parent: Les 8
-nav_exclude: true
----
+
 
 # Wat is een API?
 
@@ -13,8 +7,6 @@ Denk aan jouw website die het weerbericht ophaalt via een Weather API. Of jouw w
 Veel grote websites bieden een API aan, zodat developers (zoals jij) met de API mooie websites of applicaties kunnen programmeren.
 
 Ze bieden jou toegang tot hun gegevens en diensten. Zij hebben de gegevens en jij hebt de skills om de gegevens te gebruiken in jouw code.
-
----
 
 ### JSON 
 

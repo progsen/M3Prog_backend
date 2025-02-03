@@ -1,10 +1,4 @@
----
-title: Database verbinding
-layout: page 
-permalink: :path/:basename 
-parent: Les 6 
-nav_exclude: true
----
+
 
 # Database verbinding maken
 

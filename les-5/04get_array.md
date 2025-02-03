@@ -1,10 +1,4 @@
----
-title: GET data lezen II
-layout: page 
-permalink: :path/:basename 
-parent: Les 5 
-nav_exclude: true
----
+
 
 # GET data - deel 2
 

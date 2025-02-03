@@ -1,10 +1,4 @@
----
-title: Chart maken om mee te testen
-layout: page 
-permalink: :path/:basename 
-parent: Les 7
-nav_exclude: true
----
+
 
 # Voorbeeld chart maken
 

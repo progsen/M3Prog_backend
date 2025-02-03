@@ -1,10 +1,3 @@
----
-title: Foreach loop door een array
-layout: page 
-permalink: :path/:basename 
-parent: Les 3 
-nav_exclude: true
----
 
 # UITLEG: Foreach loop door een array
 

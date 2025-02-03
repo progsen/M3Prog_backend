@@ -5,20 +5,29 @@
 > Hoe makkelijk is het om een container opnieuw te maken?
 
 
-## start stop
+## Stop
 
 - Click op de `stop` knop van  `m3prog_project`
   > ![](img/stop.PNG)
+- Open http://localhost:88 in de browser
+  - die werkt nu niet
+
+
 - lees: 
   > - Nu heb je `alles` gestopt
   > - In jouw project hangen `4 containers`
 
+## starten!
 - start nu alles weer:
   > ![](img/start.PNG)
 
+- Open http://localhost:88 in de browser
+  - die werkt nu wel
+
+## 1 container stoppen
 - stop nu 1 container de `nginx`:
   > ![](img/1stop.PNG)
-  - Open [http://localhost:88](http://localhost:88) in de browser
+  - Open http://localhost:88 in de browser
     - je krijgt nu geen resultaat, want je webserver is `down`
 
 - start je `nginx` weer
@@ -40,9 +49,10 @@
 - maak de containers `opnieuw`:
   - gebruik `docker compose up`
 
-- Open [http://localhost:88](http://localhost:88) in de browser
+- Open http://localhost:88 in de browser
     - je krijgt nu weer je index
     
-## Commit
+  
+## klaar?
 
-- Zorg ervoor dat je alle wijzigingen commit
+- commit alles naar je github

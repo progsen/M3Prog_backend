@@ -6,6 +6,22 @@ parent: Les 2
 nav_exclude: true
 ---
 
+
+# types
+
+- maak een nieuwe file:
+    - 02/showtypes.php
+
+- zet de volgende code daarin:
+    > ![](img/showtype.PNG)
+
+- nu gaan we de types laten zien:
+    - zet het volgende code in de file:
+    > ![](img/showtypeecho.PNG)
+
+- bekijk showtypes.php in je browser (via docker)
+    - zie je dat elke variable een ander type weergeeft?
+
 # Soorten gegevens (data typen)
 
 In PHP ken je een aantal basis gegevens soorten (data types)

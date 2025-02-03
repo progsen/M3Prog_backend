@@ -1,10 +1,4 @@
----
-title: Client server
-layout: page 
-permalink: :path/:basename 
-parent: Les 5 
-nav_exclude: true
----
+
 
 # Client - Server
 

@@ -1,11 +1,3 @@
----
-title: Associatieve arrays 
-layout: page 
-permalink: :path/:basename 
-parent: Les 3 
-nav_exclude: true
----
-
 # Associatieve arrays
 
 Lees in de Les 3 PDF (op Teams te vinden) hoe je een *associatieve* array kunt maken. Hier nog een voorbeeld:

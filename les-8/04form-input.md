@@ -1,10 +1,4 @@
----
-title: Een form gebruiken voor input
-layout: page 
-permalink: :path/:basename 
-parent: Les 8
-nav_exclude: true
----
+
 
 # Een formulier gebruiken als input voor je script 
 

@@ -1,10 +1,3 @@
----
-title: Rekenen met PHP
-layout: page
-permalink: :path/:basename
-parent: Les 2
-nav_exclude: true
----
 
 # Rekenen met PHP - Arithmetic operators
 

@@ -1,10 +1,4 @@
----
-title: Wat is een API?
-layout: page 
-permalink: :path/:basename 
-parent: Les 8
-nav_exclude: true
----
+
 
 
 ### Een API kiezen

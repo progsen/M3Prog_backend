@@ -1,10 +1,4 @@
----
-title: Arrays 
-layout: page 
-permalink: :path/:basename 
-parent: Les 3 
-nav_exclude: true
----
+## Arrays
 
 - maak een nieuwe file:
     - `arrays_uitleg.php`

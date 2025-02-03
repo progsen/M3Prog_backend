@@ -1,10 +1,3 @@
----
-title: Function schrijven
-layout: page 
-permalink: :path/:basename 
-parent: Les 4 
-nav_exclude: true
----
 
 # Nu zelf oefenen en een function schrijven
 
