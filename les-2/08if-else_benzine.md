@@ -1,8 +1,9 @@
 # If - Else statement
 
-> Met het `if` en `if - else` statement bepaal je of code WEL of juist NIET wordt > uitgevoerd.
+- lees:
+    > Met het `if` en `if - else` statement bepaal je of code WEL of juist NIET wordt > uitgevoerd.
 
-![If-Else](img/if-else.png)
+    >![](img/if-else.png)
 
 ## Opdracht: Reiskosten - Oefenen met if en else 
 
@@ -49,18 +50,15 @@
             - zet je op het scherm: `Ik ga met de auto`.
 
 - Zet ook op het scherm: 
-    > - De totale afstand, 
-    > - totale prijs, 
-    > - het aantal liter bezine dat je verbuikt
-    > - het aantal keren dat je moet tanken 
+    - De totale afstand, 
+    - totale prijs, 
+    - het aantal liter bezine dat je verbuikt
+    - het aantal keren dat je moet tanken 
 
 
 ## TESTEN
 
-- open je `reiskosten.php` 
-
-
-Vraag de PHP file op via je localhost om je code te testen
+- open je `reiskosten.php` via je localhost:88 om je code te testen
 
 ## Bonus:
 
@@ -74,7 +72,6 @@ Vraag de PHP file op via je localhost om je code te testen
 ## Extra info
 
 Hier vind je meer info over het if en if-else statement in PHP:
-- [https://www.php.net/manual/en/control-structures.if.php](https://www.php.net/manual/en/control-structures.if.php)
-- [https://www.w3schools.com/php/php_if_else.asp](https://www.w3schools.com/php/php_if_else.asp)
-- 
+- https://www.php.net/manual/en/control-structures.if.php
+- https://www.w3schools.com/php/php_if_else.asp
 

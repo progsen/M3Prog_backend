@@ -1,6 +1,7 @@
 # Rekenen met PHP - Deel 2
 
->PHP heeft ingebouwde mathematische functies, bijvoorbeeld om getallen (met cijfers >achter de komma) af te ronden naar boven of naar beneden.
+- lees:
+    >PHP heeft ingebouwde mathematische functies, bijvoorbeeld om getallen (met cijfers >achter de komma) af te ronden naar boven of naar beneden.
 
 - Maak een nieuw bestand:  
     - `rekenen.php`
@@ -10,7 +11,8 @@
 
 ## voorbeeld:
 
-> om een getal af te ronden kun je `round()` https://www.php.net/manual/en/function.round.php gebruiken:
+- lees:
+    > om een getal af te ronden kun je `round()` https://www.php.net/manual/en/function.round.php gebruiken:
 
 ```php
 $getal = 11214.489;
@@ -31,6 +33,7 @@ echo "Als je ${getal} afrond dan krijg je: ${afgerond}";
     - Sla de uitkomst op in de variabele `$afgerond1`
     - Gebruik `echo` om de waarde op het scherm te zetten. 
 
+## Naar beneden
 - Zet je getal met kommas in een  nieuw `variabele`:
     - noem deze `$getal2`
 - Zoek nu de function om getallen naar `beneden` af te ronden (Round fractions down)
@@ -59,7 +62,5 @@ echo "Als je ${getal} afrond dan krijg je: ${afgerond}";
 
 Hier vind je meer info over mathematische functie in PHP
 
-- [https://www.php.net/manual/en/ref.math.php](https://www.php.net/manual/en/ref.math.php)
-- [https://www.tutorialrepublic.com/php-tutorial/php-math-operations.php](https://www.tutorialrepublic.com/php-tutorial/php-math-operations.php)
-- [Zelf Googlen kan natuurlijk ook](https://www.google.com/search?q=php+math+functions+with+examples)
-
+- https://www.php.net/manual/en/ref.math.php
+- https://www.tutorialrepublic.com/php-tutorial/php-math-operations.php

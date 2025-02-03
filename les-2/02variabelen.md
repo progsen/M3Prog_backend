@@ -1,13 +1,6 @@
----
-title: Naamgeving van variabelen 
-layout: page 
-permalink: :path/:basename 
-parent: Les 2 
-nav_exclude: true
----
 
 #  Variabelen de juiste naam geven
-\
+
 Een variabele in PHP begint altijd met een dollar-teken: `$` en daarna meteen de naam van de variabele:
 
 ```php
@@ -48,7 +41,11 @@ Een variabele in PHP begint altijd met een dollar-teken: `$` en daarna meteen de
     - kijk of het werkt
     - of dat je een fout krijgt.
         - Krijg je een fout? 
-            - Zet dan `//` voor die regel zodat PHP die regel `overslaat` (*je maakt er commentaar*),
+            - Zet dan `//` voor die regel zodat PHP die regel `overslaat`   
+                > (*je maakt er commentaar*)
+                ```php
+                //$123getal = 3;
+                ```
             - en `ga verder` met de volgende naam
 
 
@@ -58,5 +55,5 @@ Een variabele in PHP begint altijd met een dollar-teken: `$` en daarna meteen de
 
 ## INFO
 Hier vind je meer info over naamgeving van variabelen in PHP:
-[https://www.php.net/manual/en/language.variables.basics.php](https://www.php.net/manual/en/language.variables.basics.php)
+https://www.php.net/manual/en/language.variables.basics.php
 

@@ -1,11 +1,12 @@
 # PHP en HTML combineren
 
 #### UITLEG
-> De kracht van PHP is dat je het kunt combineren met HTML.
-> 
-> Wil je PHP-code schrijven die iets doet? Je opent een PHP tag, schrijft de > PHP-code en sluit af met de eind PHP-tag.  
->  
-> **Je kunt op ELKE plek een PHP tag openen en iets in de HTML zetten!**
+- lees:
+  > De kracht van PHP is dat je het kunt combineren met HTML.
+  > 
+  > Wil je PHP-code schrijven die iets doet? Je opent een PHP tag, schrijft de > PHP-code en sluit af met de eind PHP-tag.  
+  >  
+  > **Je kunt op ELKE plek een PHP tag openen en iets in de HTML zetten!**
 
 *Voorbeeld:*
 ```php
@@ -16,46 +17,56 @@ $titel = "Mediacollege Amsterdam";
 <h1><?php echo $titel; ?></h1>
 <img src="<?php echo $image?>" alt="<?php echo $titel?>" />
  ```
+- hoeveel stukken php code zie je hier?
 
 ## File maken
 
 - Maak een nieuw bestand:
   - `php-en-html.php`
     - in de directory `public/02`
+
 - type in Visual Studio Code: 
   - `! + TAB`
     > ![](img/starthtml.PNG)
-    - nu krijg je een html start
+  - nu krijg je een html start
     > ![](img/starthtml2.PNG)
 
 
 ## Php code
 
-- voeg een php blok toe:
+- voeg een php blok toe bovenin de file:
     > ![](img/phpblok.PNG)
 
-- Maak bovenin in een PHP blok:
-  - `3 variabelen`
-    > - Voor de `titel` van de pagina
-    > - Voor de `URL` naar een `afbeelding` van het internet
-    > - Voor de `titel` van de afbeelding
-    > - Voor `auteur`:
-    >     - met waarde:jouw eigen `githubnaam` 
+## variabelen
+- Maak bovenin in een PHP blok `3 variabelen`:
+    - Voor de titel van de pagina
+      - met waarde: 
+        > `Een php html voorbeeld pagina`
+    - Voor de URL naar een `afbeelding` van het internet
+    - Voor de alternatieve text van de afbeelding
+    - Voor `auteur`:
+        - met waarde:
+          > - jouw eigen `githubnaam` 
 
-## Echo in html UITLEG
+## Echo in html
 
 
+- lees:
 > er zijn 2 manieren om php variabelen in je html te krijgen
 > - in het voorbeeld hieronder zetten we:
 >     - in de HTML tag `<main>`:
 >         - de waarde van $mijnVariable;
+
 #### lange versie
+
 ```php
 <main>
 <?php echo $mijnVariable;?>
 </main>
 ```
+
 #### korte versie
+
 ```php
 <main>
 <?= $mijnVariable;?>
@@ -64,28 +75,29 @@ $titel = "Mediacollege Amsterdam";
 
 ## opdracht echo in html:
 
-- Gebruik `echo` om (de lange versie):
-  > - de **variabelen** op de juiste plek in de HTML uit te voeren met PHP:
+- maak in html een `<img src="..." alt="***">`
 
-    - Gebruik de `image url` *(de variabele dus!)* in een `<img>` tag.
-    - Gebruik de `titel` *(de variabele dus!)* van de image in het `alt` en/of `title` attribuut van de `img` tag.
+- Gebruik de *lange versie* van `echo` om :
+  - de ... te vervangen door:
+    - de `image url` variable .
+ 
+  - de *** te vervangen door:
+    - de `alternatieve text` variable
 
+## Auteur
 - maak in html een `<section>`
   - zet hier een title in waarin staat:
     - `Auteur: ...`
-- gebruik nu de `korte versie` om:
+
+- gebruik nu de *korte versie* om:
     - de `...` te vervangen met `auteur` *(de variabele dus!)*
+
+## Testen
 
 - Open je `php-en-html.php` in je browsers *(vergeet docker niet)* en:
     - kijk of de pagina uitvoer correct is:
         > onze oplossing ziet er bijvoorbeeld zo uit:
         > ![](img/result.PNG)
-
-## screenshot
-
-- Maak een screenshot van de pagina
-  - noem die: `02phphtml.png`
-    - zet deze in je `screenshots` directory
 
 
 ## klaar
