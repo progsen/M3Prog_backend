@@ -12,7 +12,6 @@
 - open `docker-compose.yml` in visual studio code
   - zet daar het volgende in:
 ```yaml
-version: '3.9'
 services:
   # PHP FPM Service
   php:
@@ -33,25 +32,7 @@ services:
       - './docker/nginx:/etc/nginx/conf.d'
     depends_on:
       - php
-  # MariaDB Service
-  mariadb:
-    image: mariadb:latest
-    environment:
-      MYSQL_DATABASE: m3prog_db
-      MYSQL_USER: m3prog_user
-      MYSQL_PASSWORD: m3prog_pass
-      MYSQL_ROOT_PASSWORD: R00tp@ss
-    ports:
-      - 3308:3306
-  # phpmyadmin in an external image
-  phpmyadmin:
-    image: phpmyadmin/phpmyadmin
-    environment:
-      PMA_HOST: mariadb
-      PMA_USER: root
-      PMA_PASSWORD: R00tp@ss
-    ports:
-      - "1088:80"
+  
 ```
 
 ## klaar?

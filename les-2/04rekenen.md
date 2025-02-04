@@ -23,12 +23,12 @@ Met PHP kun je uiteraard ook berekeningen uitvoeren.
 
 Dat ziet er dan zou uit:
 
-![](img/voorbeeld.png)
+> ![](img/voorbeeld.png)
 
 ### Dit zijn de arithmetic operators in PHP
 
 
-![](img/arithmic-operators.png)
+> ![](img/arithmic-operators.png)
 
 
 ### Oefenen met een aantal formules

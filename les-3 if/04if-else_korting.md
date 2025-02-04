@@ -1,11 +1,4 @@
-# If - Else statement
-
-- lees:
-    > Met het `if` en `if - else` statement bepaal je of code WEL of juist NIET wordt > uitgevoerd.
-
-    >![](img/if-else.png)
-
-## Simpel begin
+## Cijfers vergelijken 
 
 - lees de brieving van de klant:
     > Wij hanteren de volgende regels:
@@ -13,12 +6,16 @@
     > - als de klant meer dat 250 euro besteld dan krijgt de klant 5% korting
     > - als de klant 400 euro of meer besteld dan krijgen ze een gratis cadeautje ter waarde van ~10 euro
 
+- lees:
+    > hier hebben we dus meerdere malen de Groter en Gelijk aan vergelijking nodig
+    > - dat is dus >=
+    > - voorbeeld 10 >= 0? Dat wordt true
 
 ## Bouwen
 
 - Maak een nieuw bestand:
     - `korting.php` 
-        - in de directory `public/02`
+        - in de directory `public/03`
     
 - zet de volgende code in de php file:
  > ![](img/korting.PNG)

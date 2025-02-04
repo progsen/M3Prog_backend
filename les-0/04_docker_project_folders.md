@@ -35,8 +35,6 @@
    > - deze zijn nu leeg, later vullen we die
 
 - maak in `m3prog_project` de volgende bestanden aan:
-   - `.env`
-   - `.env_example`
    - `docker-compose.yml`
 
 - dan in subfolders van `m3prog_project`

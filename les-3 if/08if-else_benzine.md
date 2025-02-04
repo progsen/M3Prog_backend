@@ -10,7 +10,7 @@
 
 - Maak een nieuw bestand:
     - `reiskosten.php` 
-        - in de directory `public/02`
+        - in de directory `public/03`
     
 - schrijf PHP-code voor onderstaande situatie:
 

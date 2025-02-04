@@ -48,9 +48,10 @@ echo "Als je ${getal} afrond dan krijg je: ${afgerond}";
 
 - Genereer `3` random getallen en:
     - zet deze in `3` verschillende `variabelen`
-- Tel `getal 1` en `getal 2` `bij` elkaar op
+        - noem deze random1, random2, random3
+- Tel `random1` en `random2` `bij` elkaar op
     - zet de uitkomst in een `nieuwe variabele`
-- `Deel` de uitkomst door `getal 3`
+- `Deel` de uitkomst door `random3`
     - zet de uitkomst in een nieuwe variabele;
 - Zet de uitkomst van de berekening op het scherm met `echo`
 

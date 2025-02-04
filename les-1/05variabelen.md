@@ -22,9 +22,10 @@
 
 - Maak in het PHP-bestand eerst een standaard HTML-document structuur.
     > dus html, head, body tags etc...
-- Maak nu met PHP en HTML een lopende zin waarbij je alle variabelen gebruikt. 
-    > Bijvoorbeeld: "Ik ben Leraar, woon in Amsterdam en ben 46 jaar oud. De temperatuur is nu 6.4 graden, brrr."
-
+- Maak nu met PHP en HTML een lopende zin waarbij je alle variabelen gebruikt.
+    > Bijvoorbeeld:
+    > ![](img/var.PNG)
+ 
 
 ### TEST
 

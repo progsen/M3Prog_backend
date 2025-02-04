@@ -1,8 +1,10 @@
 ## Php code block:
 
-- maak een nieuwe file:
-    - `phphtml_var.php`
-- zet alle code van phphtml.php daar in
+    
+- Maak nu een nieuw bestand `phphtml_var.php`
+    - in de directory `public/01`
+
+- zet alle code van `phphtml.php` daar in
 - Zet nu boven de doctype een php open en sluit tag:
     > ![](img/phptag.PNG)
 
@@ -21,23 +23,15 @@
     > ![](img/variabels.PNG)
 
 
-## Hoe werken variabelen:
-
 - lees:
-> elke variable is een stukje opslag in het geheugen
-> - daar `bewaar` je dus `1 ding` in, bijvoorbeeld een nummer zoals 99
-> - met `=` zeg je bewaar wat achter de = staat in de variable voor de =
->   - bijvoorbeeld: ```$loodsNummer = "15A";``` zegt:
->       - in variable $loodsNummer
->       - bewaar daar de string 15A in
-> - van een variable kan je later de waarde weer aanpassen:
+> - nu we variabelen hebben kunnen we die gebruiken in de html of in php code 
 
-```php
-$loodsNummer = "15A";
-//en nu naar een andere loods:
-$loodsNummer = "16A";
-```
+## variabelen echo
 
+- hoe zetten we een variable op het scherm?
+    > ![](img/echovar.PNG)
+    > ![](img/scherm.PNG)
+    
 ## klaar?
 
 - commit alles naar je github
