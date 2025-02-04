@@ -2,7 +2,11 @@
 ## Andere functions
 
 - lees:
-    > Er zijn veel [array functions](https://www.php.net/manual/en/ref.array.php) in PHP om met arrays te werken. We gaan er een aantal proberen
+    > Er zijn veel [array functions](https://www.php.net/manual/en/ref.array.php) in PHP om met arrays te werken. We gaan er een aantal proberen:
+    > - count
+    > - array_push
+    > - implode 
+    > - explode
 
 
 ## Count
@@ -14,6 +18,14 @@
     echo count($dagen); 
     // 7
     ``` 
+## Proberen
+
+- werk nu verder in de file:
+    - `arrays_eigen.php`
+
+ - print nu het aantal elementen in je array:
+    > ![](img/count.PNG)
+
 ## Elementen toevoegen
 
 - lees:
@@ -30,12 +42,9 @@
     echo count($dagen); // 8
     ```
 
-## Count en push proberen
-
-- gebruik `count` om de lengte van je array op het scherm te zetten
-
 - voeg met `array_push` nog 1 element toe
     - `print_r` je array nogmaals
+- gebruik count nogmaals om de nieuwe lengte op het scherm te zetten
 
 ## Array naar een String
 
@@ -44,8 +53,19 @@
 
     ```php
     echo implode(' >> ', $dagen);
+    //dit zet het volgende op het scherm:
     // maandag >> dinsdag >> woensdag >> donderdag >> vrijdag >> zaterdag >> zondag
     ```
+
+    > ![](img/dagenplak.PNG)
+
+    
+- `echo implode` nu met ` ` je array
+    - je krijgt dan ongeveer zoiets op je scherm:
+        > ![](img/arrayresult.PNG)
+- doe dit nogmaals alleen dan met `,<br>`: 
+    > ![](img/imploded.PNG)
+
 
 ## Sorteren
 
@@ -58,17 +78,14 @@
     // dinsdag >> donderdag >> maandag >> nog een dag >> vrijdag >> woensdag >> zaterdag >> zondag
     ```
 
-## Opdracht: functions gebruiken
-
 - `sort` je array 
-    - `echo implode` nu met ` ` je array
-- je krijgt dan ongeveer zoiets op je scherm:
-    > ![](img/arrayresult.PNG)
-    
+    - print_r je array
+        > ![](img/sorted.PNG)
+    - zet het nu weer met breaks op het scherm:
+        > ![](img/sorted2.PNG)
 
 ## klaar
 - commit alles naar je github
-
 
 ## Documentatie
 Hier vind je meer info over arrays en handige array functions in PHP:
