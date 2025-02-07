@@ -5,8 +5,6 @@
 
 ### Opdracht 1 - Schrijf een function voor het berekenen van vliegkosten
 
-![Vliegkosten](img/vliegkosten.png)
-
 - Voeg nu een function aan `functions.php` toe die:
     - de retour prijs berekent (dus heen en terugreis samen) voor een vliegreis.
         - gebruik de onderstaande instructies:
@@ -26,10 +24,8 @@
 
 ### Opdracht 2 - Gebruik de function en bereken kosten
 
-![Berekenen](img/calculate.png)
-
 - Maak een bestand `vliegkosten.php`
-    - in de directory `public/04`
+    - in de directory `public/05`
     - laadt met `include_once` je `functions.php` in.
 - Test je function uit door hem aan te roepen in `vliegkosten.php`:
     > **Bereken nu de kosten door jouw eigen function te gebruiken**
@@ -45,15 +41,13 @@
 ## TESTEN
 
 - Vraag de pagina op via localhost
-- Voeg wat `kleuren` en `stijlen` toe te voegen met CSS zodat het er prettig uit ziet.
-- maak een screenshot als bewijs:
-  - `04 vliegen.png`
-    - zet deze in je `screenshots` directory
-  
-> de uitkomsten zouden moeten zijn:
-> - 3722 km: €354.34
-> - 9276 km: €1,011.61
-> - 803 km + business: €113.62 
+    - Voeg wat `kleuren` en `stijlen` toe te voegen met CSS zodat het er prettig uit ziet.
+
+## Controle
+- check je uitkomst:
+    - 3722 km: €354.34
+    - 9276 km: €1,011.61
+    - 803 km + business: €113.62 
 
 ## klaar
 - commit alles naar je github
