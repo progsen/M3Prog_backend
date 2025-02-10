@@ -18,8 +18,6 @@ services:
     image: wodby/php:latest
     volumes:
       - './:/var/www/html'
-    depends_on:
-      - mariadb
 # Nginx Service
   nginx:
     image: nginx:latest
