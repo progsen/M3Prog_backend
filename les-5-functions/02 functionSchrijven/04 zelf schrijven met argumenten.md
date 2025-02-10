@@ -17,34 +17,43 @@
             - toCurrency
 
 
-- schrijf ook deze functions:
+## sendEmail
+- schrijf deze function:
     > de body mag leeg blijven
-    
     - sendEmail
         - met argumenten:
             - to
             - from
             - subject
             - message
+    - echo of print nu in de body de argumenten
+
+## generateRandomString
+
+- schrijf deze function:
+    > de body mag leeg blijven
     - generateRandomString
         - met argumenten:
             - length
+    - echo of print nu in de body de argumenten
+
+## calculateArea
+
+- schrijf deze function:
+    > de body mag leeg blijven
     - calculateArea
         - met argumenten:
             - length
             - width  
-    
-## Body
-
-- echo of print nu in de body de argumenten
+    - echo of print nu in de body de argumenten
 
 ## Gebruiken
 
 - test nu de nieuwe functions:
     - roep de function aan in je code        
-        >![](img/usefunc.PNG)
+        >![](../img/usefunc.PNG)
     - check je resultaat:
-        >![](img/zelfarg.PNG)
+        >![](../img/zelfarg.PNG)
 
 - lees:
     > deze functions doen nog niet veel, we hebben ze nog geen NUTTIGE code gegeven

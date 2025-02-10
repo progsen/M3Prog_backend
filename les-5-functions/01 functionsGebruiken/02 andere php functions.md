@@ -5,7 +5,7 @@
 ## power
 
 - om 2 tot de macht van 2 te berekenen gebruiken we:
-    >![](img/pow2.PNG)
+    >![](../img/pow2.PNG)
 
 
 - print nu onder aan in je code:
@@ -13,7 +13,7 @@
 - daaronder maak je een variable:
     - tweeMacht2
         - met als waarde:
-            >![](img/pow2.PNG)
+            >![](../img/pow2.PNG)
 
 ## tot de macht ...
 - lees:
@@ -28,7 +28,9 @@
     - gebruik `pow` EN de documentatie:
         > https://www.php.net/manual/en/function.pow.php)
 - zet het resultaat weer met print op het scherm
-
+    - controlleer:
+        - het antwoord zou `1024` moeten zijn
+        
 ## function resultaat naar een andere function
 
 - lees:
@@ -40,7 +42,7 @@
 
 - we gebruiken 3 tot de macht 4 hiervoor:
     > - we doen het 2 keer om het verschil te zien
-    >![](img/derde.PNG)
+    >![](../img/derde.PNG)
 
 ## vraag
 

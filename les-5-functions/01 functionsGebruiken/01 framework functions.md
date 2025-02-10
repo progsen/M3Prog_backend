@@ -5,8 +5,9 @@
     > - zet een string in de console/html (```print("hello world")```)
     > - rond een getal af (```round(2324.5)```)
     > - het toevoegen van een element in een array (```array_push(element)```)
-    > print, round, array_push zijn functions. functions van php zelf
-    > wij maken daar dus gebruik van
+    >   - print, round, array_push zijn functions.
+    >       - functions van php zelf  
+    > - wij maken daar dus gebruik van
 
 ## funcions gebruiken
 
@@ -27,14 +28,14 @@
         - zet er een = achter
 
         - achter de = zet je:
-            >![](img/strlen.PNG)
+            >![](../img/strlen.PNG)
 - zet nu woordLengte op het scherm met:
-    >![](img/print.PNG)
+    >![](../img/print.PNG)
 
 ## Test!
 
 - test en kijk of je de lengte op het scherm krijgt:
-    >![](img/lengte.PNG)
+    >![](../img/lengte.PNG)
 
 ## function aanroepen
 
@@ -74,6 +75,9 @@
         > dus door de php function strlen te gebruiken
     - print die naar het scherm
 
+- beantwoord de vragen hieronder, zet dit in commentaar in je code 
+- vraag 4)
+    - hoevaak heb je nu de function `strlen` aangeroepen?
 
 ## klaar
 - commit alles naar je github
