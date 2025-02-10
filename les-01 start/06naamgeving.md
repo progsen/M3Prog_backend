@@ -18,7 +18,7 @@ Een variabele in PHP begint altijd met een dollar-teken: `$` en daarna meteen de
 > Sommige namen voor variabelen zijn NIET geldig in PHP. Dat ga je nu zelf uitzoeken.
 
 - Maak een nieuw bestand:
-    - `variabelen.php`;
+    - `variabelennaam.php`;
         - in de directory `public/02`
 - Declareer nu de `variabelen` uit de tabel hier onder één voor één met een `waarde` 
     > - je mag zelf de waarde verzinnen

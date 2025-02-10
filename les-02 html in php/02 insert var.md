@@ -1,7 +1,7 @@
 ## Start
 - ga verder in:
     - `plak.php`
-        - in de directory `public/01`
+        - in de directory `public/02`
         
         
 ## insert variable

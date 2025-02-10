@@ -2,7 +2,7 @@
 
 - maak een nieuwe file:
     - `menu.php`
-        - in de directory `public/01`
+        - in de directory `public/02`
 - lees:
     > voor een klant maken wij een php pagina met details van het menu van het restaurant
     > - we beginnen met 1 gerecht op het scherm te zetten, we krijgen van de klant een vast formaat daarvoor
