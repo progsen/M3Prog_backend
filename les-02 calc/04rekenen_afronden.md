@@ -14,12 +14,12 @@
 - lees:
     > om een getal af te ronden kun je `round()` https://www.php.net/manual/en/function.round.php gebruiken:
 
-```php
-$getal = 11214.489;
-$afgerond = round($getal);
-echo "Als je ${getal} afrond dan krijg je: ${afgerond}";
-// Als je 11214.489 afrond dan krijg je: 11214
-```
+    ```php
+    $getal = 11214.489;
+    $afgerond = round($getal);
+    echo "Als je ${getal} afrond dan krijg je: ${afgerond}";
+    // Als je 11214.489 afrond dan krijg je: 11214
+    ```
 
 ## Opdracht - getallen afronden
 
