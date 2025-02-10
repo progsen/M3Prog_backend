@@ -23,7 +23,7 @@
     ```
 - vraag het bestand op in je browser via de juiste http://localhost:88 url.
     - check of je zoiets krijgt:
-    > ![](img/phphtmlsimple.PNG)
+        > ![](img/phphtmlsimple.PNG)
 
 
 ## klaar?
