@@ -18,7 +18,7 @@
         - waarom zet ik er een `<br>` in?
 - echo beide strings 
     - test!
-    > ![](img/2stringsresult.PNG)
+        > ![](img/2stringsresult.PNG)
 
     
 ## plakken
@@ -41,6 +41,8 @@
     - zet dat in een nieuwe variable: 
         - fullname
             - echo fullname naar het scherm
+
+## TEST
 - test:
     > ![](img/luigi.PNG)
     - plak er nog een spatie bij
