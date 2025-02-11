@@ -18,6 +18,7 @@ services:
     image: wodby/php:latest
     volumes:
       - './:/var/www/html'
+
 # Nginx Service
   nginx:
     image: nginx:latest

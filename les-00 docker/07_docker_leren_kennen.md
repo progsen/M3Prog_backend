@@ -15,7 +15,7 @@
 
 - lees: 
   > - Nu heb je `alles` gestopt
-  > - In jouw project hangen `4 containers`
+  > - In jouw project hangen `2 containers`
 
 ## starten!
 - start nu alles weer:
