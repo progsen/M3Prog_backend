@@ -2,7 +2,7 @@
 # types en variables
 
 - maak een nieuwe file:
-    - `public/02/showtypes.php`
+    - `public/01/showtypes.php`
 
 - zet de volgende code daarin:
     > ![](img/showtype.PNG)

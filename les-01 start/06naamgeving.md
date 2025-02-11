@@ -19,7 +19,7 @@ Een variabele in PHP begint altijd met een dollar-teken: `$` en daarna meteen de
 
 - Maak een nieuw bestand:
     - `variabelennaam.php`;
-        - in de directory `public/02`
+        - in de directory `public/01`
 - Declareer nu de `variabelen` uit de tabel hier onder één voor één met een `waarde` 
     > - je mag zelf de waarde verzinnen
     
