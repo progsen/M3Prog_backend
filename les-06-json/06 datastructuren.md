@@ -28,7 +28,7 @@
 
 
 - maak een nieuwe file:
-    - `datastructuren2.php`
+    - `winkeldata.php`
         - in de directory `public/06`
 - zet deze json in je php
 ```php

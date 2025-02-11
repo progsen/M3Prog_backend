@@ -2,7 +2,7 @@
 ## Objecten naar json
 
 - maak een nieuwe file:
-    - `dataclass.php`
+    - `datametarray.php`
         - in de directory `public/06`
 
 

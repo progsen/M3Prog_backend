@@ -2,7 +2,7 @@
 
 
 - maak een nieuwe file:
-    - `dataclass2.php`
+    - `dataclass.php`
         - in de directory `public/06`
 
 
