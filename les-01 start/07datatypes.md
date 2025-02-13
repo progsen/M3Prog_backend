@@ -39,7 +39,7 @@ https://www.php.net/manual/en/language.variables.basics.php
 # Maak verschillende soorten variabelen
 
 - Maak een bestand `datatypes.php`
-    - in de directory `public/02`
+    - in de directory `public/01`
 
 Kijk naar de voorbeelden hierboven en kies het juiste soort variabelen bij de inhoud
 
