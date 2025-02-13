@@ -26,7 +26,7 @@
    - `public\assets\css`
    - `public\assets\js`
    - `public\assets\scss`
-   - `public\images`
+   - `public\assets\images`
 
 ## Voorbeeld bestanden
 

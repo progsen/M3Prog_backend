@@ -1,9 +1,13 @@
-## Git setup
+## Git setup (Stap 1)
 
 
 - maak in je github een nieuwe repository:
     - `M3Prog`
 - clone die naar je computer
+
+
+## Klaar?
+- lever je git link in simulize
 
 
 ## WIFI
@@ -18,6 +22,4 @@
         git clone https://github.com/progsen/M3Prog_backend.git
         ```
 - `LETOP` deze zijn alleen om te lezen niet om in te werken
-
-## Klaar?
-- lever je git link in simulize
+    - Deze gaan dus NIET in JOUW git van stap 1
