@@ -72,8 +72,10 @@ Dat ziet er dan zou uit:
 - maak nu een nieuwe variabel:
     - varsom3
         - geef die de waarde:
+            - !!!gebruik even GEEN haakjes
             - varsom1 keer som4 gedeelt door varsom2 min som2
-            > hier komt 975 uit, dit heeft met de volgorde van rekenen te maken
+                > hier komt 975 uit, dit heeft met de volgorde van rekenen te maken
+            - kopieer de regel en gebruik wel haakjes, zie je het verschil?
 
 
 ## klaar

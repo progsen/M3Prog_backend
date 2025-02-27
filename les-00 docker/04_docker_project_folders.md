@@ -53,7 +53,7 @@
 - Plaats dit bestand in de volgende folders:
     - `public/assets/css`
     - `public/assets/js`
-    - `public/images`
+    - `public/assets/images`
 
 ## opdrachten folders
 
