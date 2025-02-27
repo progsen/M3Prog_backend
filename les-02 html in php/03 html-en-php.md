@@ -60,17 +60,27 @@ $titel = "Mediacollege Amsterdam";
 #### lange versie
 
 ```php
-<main>
+
 <?php echo $mijnVariable;?>
-</main>
 ```
 
 #### korte versie
 
 ```php
-<main>
 <?= $mijnVariable;?>
+```
+
+#### gebruik
+
+- voorbeeld van het gebruiken in html:
+
+```php
+<main>
+  <h1><?php echo $mijnVariable;?></h1>
+  <h2><?= $mijnVariable;?></h2>
 </main>
+
+
 ```
 
 ## opdracht echo in html:

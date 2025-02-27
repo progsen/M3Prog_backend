@@ -52,9 +52,10 @@
 
 ## review loop
 
-- maak nu dit in de php in de body:
-    > ![](img/reviews.PNG)
-    
+- maak een loop die over de reviews loopt
+    - maak nu dit in de php in de body:
+        > ![](img/reviews.PNG)
+        
 - gebruik echo om de review op het scherm te zetten:
     > ![](img/reviewshtml.PNG)
     - test!
