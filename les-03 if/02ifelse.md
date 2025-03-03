@@ -40,13 +40,13 @@
 - zoek je if, kopieer die regel en plak die onder zichzelf
     - zet nu 1 van de regels even in commentaar
     > ![](img/commentaar.PNG)
-
+    - haal nu alles weg tussen de () van de if
     
 - we gaan nu deze code gebruiken:
     > ![](img/aantal.PNG)
-    - zie je het gedeelte achter de =?
+    - zie je het gedeelte ```$aantalOpVoorraad > 0```?
         - zet dat tussen de () van de if
-            - dus vervang $opvoorraad in ```if($opvoorraad)```
+            - dus zet  ```$aantalOpVoorraad > 0``` tussen de () haakjes
 
 ## test je code weer
 
