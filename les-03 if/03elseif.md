@@ -1,6 +1,6 @@
 # If else statement
 
-- we gaan verder in:
+- Maak een nieuw bestand:
     - `elseif.php` 
         - in de directory `public/03`
 - zet daar de standaard html in
