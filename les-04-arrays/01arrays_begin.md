@@ -30,7 +30,7 @@ $dagen = ["maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", 
 
 - maak een nieuwe file:
     - `arrays_uitleg.php`
-        - in de directory `public/03`
+        - in de directory `public/04`
         
 - laten we even kort 1 array samen maken:
     - maak een nieuwe variabel:

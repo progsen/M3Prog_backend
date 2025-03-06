@@ -3,7 +3,7 @@
 
 - maak een nieuwe file:
     - `arrays_eigen.php`
-        - in de directory `public/03`
+        - in de directory `public/04`
         
 - maak nu zelf een array in die php file, kies een onderwerp:
     > - berichten
