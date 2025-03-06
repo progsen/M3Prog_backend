@@ -4,16 +4,29 @@
     - `elseif.php` 
         - in de directory `public/03`
 - zet daar de standaard html in
+
 ## stoplicht
 
 - maak nu een stoplichtKleur variabel
     >![](img/stoplicht.PNG)
 
 
+## php tussen de html
+
+- maak in je html body een nieuwe php tag, en sluit die
+    >![](img/phptaginbody.PNG)
+
+- lees:
+    ```
+    nu kunnen we dus op 2 plaatsen php code maken:
+    - boven de html
+    - in de body van de html
+    ```
 ## else if
 
-- nu maken we een if, met een else if en een else:
-    >![](img/elseif.PNG)
+- in de nieuwe php tag (in je body) maken we:
+    - een if, met een else if en een else:
+        >![](img/elseif.PNG)
 
 
 ## kleuren
