@@ -9,7 +9,7 @@ Lees in de Les 3 PDF (op Teams te vinden) hoe je een *associatieve* array kunt m
 
 - Maak een nieuwe bestand:
   - `array_assoc.php`
-    - in de directory `public/03`
+    - in de directory `public/04`
   - zet daarin een HTML start document en zet alle PHP-code weer in de `<body>` van je HTML (en tussen de start en eind PHP-tags uiteraard!)
 
 - Zoek de weersvoorspelling voor komende week op internet.

@@ -11,7 +11,7 @@
 
 - Maak een nieuw bestand:
     - `for-loop.php`
-        - in de directory `public/03`
+        - in de directory `public/04`
 -  zet daar de standaard HTML structuur in
     - zet de PHP-code weer tussen de `<body></body>`.
 
