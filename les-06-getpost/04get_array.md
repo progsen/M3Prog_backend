@@ -8,7 +8,7 @@
 ### Opdracht 1 - Een GET-parameter gebruiken om iets uit een associatieve array te lezen 
 
 - Maak een nieuw bestand `hetweer.php`
-    - in de directory `public/05`
+    - in de directory `public/06`
 - Zet hier deze associatieve array in (tussen de PHP-tags!):
 > ![](img/voorspelling.PNG)
 

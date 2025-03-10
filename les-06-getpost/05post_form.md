@@ -45,13 +45,13 @@
 
 - Maak een bestand:
   - `formulier.html`
-    - in de directory `public/05`
+    - in de directory `public/06`
   - zorg voor een HTML-structuur 
   - voeg een `<form>` in de `<body>` toe
 
 - Maak een tweede bestand:
   - `verwerk.php`.
-    - in de directory `public/05`
+    - in de directory `public/06`
 - Stel de `action` van je form in naar:
   - `verwerk.php`
 - gebruik `POST` als `method`.
