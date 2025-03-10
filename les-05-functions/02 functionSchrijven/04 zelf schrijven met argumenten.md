@@ -15,6 +15,7 @@
             - amount
             - fromCurrency
             - toCurrency
+    - echo of print nu in de body de argumenten
 
 
 ## sendEmail
