@@ -23,12 +23,10 @@
 - test:
     > ![](img/stdclass.PNG)
 - lees:
-  ```
-  - dat is geen associative array?
-  - wat is een stdClass?
-    - eigenlijk gewoon een class net als in andere talen
-      - dus een code `doos` waar je eigenschappen en functions aan hangt
-  ```
+  >  - dat is geen associative array?
+  > - wat is een stdClass?
+  >   - eigenlijk gewoon een class net als in andere talen
+  >     - dus een code `doos` waar je eigenschappen en functions aan hangt
 
 ## klaar
 - commit alles naar je github

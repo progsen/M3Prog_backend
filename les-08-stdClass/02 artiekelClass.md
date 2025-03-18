@@ -21,20 +21,17 @@
 - vergelijk met de het json resultaat
     > ![](img/stdclass.PNG)
 - lees:
-  ```
-  - zie je dat de json bijna hetzelfde is?
-  - op het stdClass en Artiekel woord na?
-  ```
+  > - zie je dat de json bijna hetzelfde is?
+  > - op het stdClass en Artiekel woord na?
+
 
 ## json
 
 - maak nu van $game json en zet het op het scherm
     > ![](img/artjson.PNG)
 - lees:
-```
-  - dat ziet er bekend uit toch?
-  - daar begonnen we mee vanuit de associative array
-  ```
+  > - dat ziet er bekend uit toch?
+  > - daar begonnen we mee vanuit de associative array
 
 ## klaar
 - commit alles naar je github

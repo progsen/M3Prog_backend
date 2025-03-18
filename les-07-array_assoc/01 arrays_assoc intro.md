@@ -16,16 +16,14 @@
 
 ## key/value
 - lees:
-  ```
-  - een associative array heeft:
-    - een key (de index) 
-    - en een value, de waarde die bij de key hoort
-    
-  - in de array die wij gemaakt hebben:
-    - zijn "Demon's souls", "Mario wonder" en "Rayman Origins" de keys
-    - 11,0 en 9 zijn de waardes
+ >  - een associative array heeft:
+ >   - een key (de index) 
+ >   - en een value, de waarde die bij de key hoort
+ >   
+ > - in de array die wij gemaakt hebben:
+ >   - zijn "Demon's souls", "Mario wonder" en "Rayman Origins" de keys
+ >   - 11,0 en 9 zijn de waardes
   
-  ```
   
 ## ophalen met de sleutel (key)
 

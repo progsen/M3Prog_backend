@@ -13,10 +13,8 @@
       > ![](img/bal.PNG)
 
 - lees:
-```
-- zie je dat we met -> bij elke eigenschap van de instance komen?
-- in dit geval geven we een waarde aan die class variable 
-```
+    > - zie je dat we met -> bij elke eigenschap van de instance komen?
+    > - in dit geval geven we een waarde aan die class variable 
 
 ## op het scherm zetten
 

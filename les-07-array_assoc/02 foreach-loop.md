@@ -2,9 +2,9 @@
 # UITLEG: Foreach loop door een array
 
 - lees:
-> - De elementen in een normale array kun je dus ophalen met de index (die bij 0 begint)
-> - In een *associatieve array* gebruik je een eigen *key* voor de *value* die er bij hoort.
-> - Zo kun je direct iets ophalen waarvan je de *key* al weet.
+    > - De elementen in een normale array kun je dus ophalen met de index (die bij 0 begint)
+    > - In een *associatieve array* gebruik je een eigen *key* voor de *value* die er bij hoort.
+    > - Zo kun je direct iets ophalen waarvan je de *key* al weet.
 
 
 
