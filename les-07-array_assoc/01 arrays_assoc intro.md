@@ -2,7 +2,7 @@
 
 
 - bekijk dit code voorbeeld:
-![Associatieve array](img/array_assoc.png)
+![](img/array_assoc.png)
 
 ### Opdrachten
 
