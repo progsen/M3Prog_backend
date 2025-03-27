@@ -18,7 +18,7 @@
 
 - laten we een begin maken:
     - we zetten de header even als eerst:
-        > ![](img/header.png)
+        > ![](img/header.PNG)
 
 
 ## test
@@ -26,14 +26,14 @@
 - open jsoninphp.php
     - een leeg scherm? dat klopt
         - maar open even de network debugger:
-            > ![](img/jsonnetwork.png)
+            > ![](img/jsonnetwork.PNG)
         - zie je dat daar nu json staat?
 
 ## geen header
 
 - zet de header even in commentaar
 - test nogmaals met de network debugger
-    > ![](img/html.png)
+    > ![](img/html.PNG)
 
 
 ## iets meer sturen
@@ -42,7 +42,7 @@
     - maak een variable:
         - steden
             - geef deze de waarde:
-                > ![](img/stedenstring.png)
+                > ![](img/stedenstring.PNG)
 
 ## echo!
 
@@ -53,9 +53,9 @@
 
 - test:
     - nu ziet je browser dit als json:
-        > ![](img/alsjson.png)
+        > ![](img/alsjson.PNG)
     - haal nog eens de header weg en test:
-        > ![](img/nojson.png)
+        > ![](img/nojson.PNG)
 
     
 ## klaar
