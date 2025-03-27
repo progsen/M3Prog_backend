@@ -38,11 +38,11 @@
     - [hoe je een table maakt](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics#active_learning_creating_your_first_table)
 
  - maak nu een tabel met de persoon:
-    > er staan ook hints hieronder
+    > er staan ook hints hieronder  
     > ![](img/tablemario.PNG)
 
 - hints:
-    > ![](img/hint1.PNG)
+    > ![](img/hint1.PNG)  
     > ![](img/hint2.PNG)
  
 ## klaar
