@@ -36,7 +36,7 @@
 
 - voorbeeld:
   - Zoiets zou je dan kunnen krijgen:
-  > ![](img/assoc_temps_styled.png)
+  > ![](img/assoc_temps_styled.PNG)
 
 
 ## ophalen met de sleutel (key)

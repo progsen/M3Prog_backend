@@ -11,7 +11,7 @@
 ## loopen over een associative array
 
 - bekijk dit voorbeeld van een foreach:
-    > ![](img/foreach-loop.png)
+    > ![](img/foreach-loop.PNG)
 - lees:
     > De foreach-loop geeft je elke keer de *key* EN de *value* die bij die key hoort:
 
@@ -21,7 +21,7 @@
     - `personen.php`
     - in de directory `public/07`
 - maak het voorbeeld na en test:
-    > ![](img/foreach-result.png)
+    > ![](img/foreach-result.PNG)
 
 ## meer keys
 
@@ -30,7 +30,7 @@
     - favoriet eten
     - minst favoriet eten
 - test!
-    > ![](img/meerkeys.png)
+    > ![](img/meerkeys.PNG)
 
 ## tabel
 
@@ -39,11 +39,11 @@
 
  - maak nu een tabel met de persoon:
     > er staan ook hints hieronder
-    > ![](img/tablemario.png)
+    > ![](img/tablemario.PNG)
 
 - hints:
-    > ![](img/hint1.png)
-    > ![](img/hint2.png)
+    > ![](img/hint1.PNG)
+    > ![](img/hint2.PNG)
  
 ## klaar
 - commit alles naar je github

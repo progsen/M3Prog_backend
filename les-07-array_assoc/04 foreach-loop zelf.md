@@ -17,7 +17,7 @@
 - Schrijf nu een `foreach` loop die:
     - eerst de `naam` van het apparaat op het scherm zet
     - en dan het `verbruik` van het apparaat op het scherm zet.
-        > ![](img/kwh.png)
+        > ![](img/kwh.PNG)
     - Gebruik wat verschillende HTML-tags in je output 
         - en pas wat stijling met een CSS bestand toe
 
@@ -32,7 +32,7 @@
     > Je hebt nu een foreach-loop gebruikt om al het verbruik bij elkaar op te tellen.
 
 - test:
-    > ![](img/apparaten.png)
+    > ![](img/apparaten.PNG)
 
 ## klaar
 - commit alles naar je github
