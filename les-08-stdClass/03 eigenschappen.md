@@ -10,7 +10,7 @@
     > ![](img/lunch.PNG)
 
 - maak een nieuwe instance:
-      > ![](img/bal.PNG)
+    > ![](img/bal.PNG)
 
 - lees:
     > - zie je dat we met -> bij elke eigenschap van de instance komen?

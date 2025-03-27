@@ -18,7 +18,7 @@
 ## test!
 
 - zet de volgende code erbij:
-      > ![](img/printobject.PNG)
+    > ![](img/printobject.PNG)
 
 - test:
     > ![](img/stdclass.PNG)
