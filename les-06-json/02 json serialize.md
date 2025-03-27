@@ -9,7 +9,7 @@
 ## Json header
 
 - we zetten de header weer even als eerst:
-    > ![](img/header.png)
+    > ![](img/header.PNG)
 
 
 
@@ -31,19 +31,19 @@
                 - amsterdam
                 - rotterdam
                 - utrecht
-                    > ![](img/stedenarray.png)
+                    > ![](img/stedenarray.PNG)
                 
 ## Serialize!
 
 - maak deze code na:
-    > ![](img/serial.png)
+    > ![](img/serial.PNG)
 
 - echo jsonString
 
 ## test:
 
 - test wat je krijgt!
-    > ![](img/jsonarray.png)
+    > ![](img/jsonarray.PNG)
 
 ## klaar
 - commit alles naar je github

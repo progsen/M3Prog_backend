@@ -9,7 +9,7 @@
 ## steden
 
 - pak weer je steden array en maak daar json van:
-    > ![](img/stedenarray.png)
+    > ![](img/stedenarray.PNG)
 
 - lees:
     > - nu hebben we de json
@@ -20,10 +20,10 @@
 
 - maak de volgende code na:
 
-    > ![](img/stedenread.png)
+    > ![](img/stedenread.PNG)
 
 - test je code:
-    > ![](img/array.png)
+    > ![](img/array.PNG)
     - nu hebben we onze array weer!
 
 ## ingewikkeldere data
@@ -59,7 +59,7 @@ $json = '{
 - print_r de $dataObject variable
 
 - test!
-    > ![](img/stdobject.png)
+    > ![](img/stdobject.PNG)
 
 - lees:
     >    - zie je dat daar stdClass Object staat?
@@ -76,16 +76,16 @@ $json = '{
 
 
 - maak dit na:
-    > ![](img/echoname.png)
+    > ![](img/echoname.PNG)
 
 - test:
-    > ![](img/path.png)
+    > ![](img/path.PNG)
 
 ## zelf proberen
 
 - zet nu het gemiddeldeCijfer van wario op het scherm!
 
-    > ![](img/45.png)
+    > ![](img/45.PNG)
 
 
 ## klaar

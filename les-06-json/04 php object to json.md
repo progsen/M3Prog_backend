@@ -9,7 +9,7 @@
 ## Json header
 
 - we zetten de header weer even als eerst:
-    > ![](img/header.png)
+    > ![](img/header.PNG)
 
 
 - lees:
@@ -24,10 +24,10 @@
 
 ## Data
 - we maken eerst de 2 studenten aan als variablen:
-    > ![](img/2studenten.png)
+    > ![](img/2studenten.PNG)
 
 - nu maken we een dataObject aan met een array die studenten heet:
-    > ![](img/dataObject.png)
+    > ![](img/dataObject.PNG)
 
 - serialize $dataObject naar een jsonString
 - echo die string
@@ -35,7 +35,7 @@
 ## test
 
 - test je code:
-    > ![](img/assocjson.png)
+    > ![](img/assocjson.PNG)
 
 ## meer studenten
 
@@ -44,7 +44,7 @@
     - toad
 
 - geef alle studenten ook een klas!
-    > ![](img/klas.png)
+    > ![](img/klas.PNG)
 
 ## klaar
 - commit alles naar je github
