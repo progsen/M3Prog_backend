@@ -18,7 +18,7 @@
 
 - test:
     > ![](img/printart.PNG)
-- vergelijk met de het json resultaat
+- vergelijk met het json resultaat
     > ![](img/stdclass.PNG)
 - lees:
   > - zie je dat de json bijna hetzelfde is?
